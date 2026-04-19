@@ -1,0 +1,8 @@
+Label frequency:
+  DRUG: 1210 (50.80%)
+  DISEASE: 697 (29.26%)
+  SYMPTOM: 475 (19.94%)
+
+DISEASE ratio: 697 / 2382 = 29.26%
+
+Documents retained: 580 / 1000

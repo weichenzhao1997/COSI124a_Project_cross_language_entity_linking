@@ -100,5 +100,5 @@ def convert_pubmed_to_json(pubmed_dir: str, output_path: str) -> None:
 if __name__ == "__main__":
     base = Path(__file__).parent.parent
     pubmed_dir = base / "TwiMed-master" / "gold" / "pubmed"
-    output_path = base / "data_conversion" / "twimed_pubmed.json"
+    output_path = base / "processed_corpus" / "English" / "twimed_pubmed.json"
     convert_pubmed_to_json(str(pubmed_dir), str(output_path))
