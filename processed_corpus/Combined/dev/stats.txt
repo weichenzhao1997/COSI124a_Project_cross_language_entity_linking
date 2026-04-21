@@ -1,0 +1,3 @@
+Matched:   {'english_ncbi': 295, 'simp_chinese': 4323, 'trad_chinese': 324}
+Unmatched: {'english_ncbi': 114, 'simp_chinese': 2005, 'trad_chinese': 676}
+Total entities: 7737
