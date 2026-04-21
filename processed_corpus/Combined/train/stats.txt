@@ -1,0 +1,11 @@
+Matched:   {'english_ncbi': 2158, 'simp_chinese': 13425, 'trad_chinese': 2681}
+Unmatched: {'english_ncbi': 797, 'simp_chinese': 5946, 'trad_chinese': 5393}
+Total entities: 30400
+
+ICD-11 API matching achieved 73.0% coverage for English 
+and 69.3% for Simplified Chinese, demonstrating comparable cross-lingual ontology coverage for these two languages. 
+
+Traditional Chinese coverage was substantially lower at 33.2% -> reflects thinner ICD-11 zh-TW translations
+Actually, ICD-11 doesn't formally accept the traditional Chinese script
+The API is not doing true Traditional Chinese matching — it is doing Simplified Chinese matching and accepting some Traditional Chinese input by accident when characters overlap.
+This means the 33.2% Traditional Chinese coverage figure is not really "Traditional Chinese linking" at all. It is "Traditional Chinese terms that happen to share written forms with Simplified Chinese."
