@@ -46,7 +46,13 @@ class JSON_Parser:
                 #f.write(json.dumps(item, ensure_ascii=False) + "\n")
             json.dump(outlist, f, ensure_ascii=False, indent=2)
     @staticmethod
+    def save_jsonl_file(path: Path, outlist:list) ->None:
+        with open(path, "w", encoding="utf-8") as f:
+            for item in outlist:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+    @staticmethod
     def process(input_path: Path, output_path: Path) -> None:
         data = JSON_Parser.load_json_file(input_path)
         parsed = JSON_Parser.parse(data)
-        JSON_Parser.save_json_file(output_path, parsed)
+        #JSON_Parser.save_json_file(output_path, parsed)
+        JSON_Parser.save_jsonl_file(output_path, parsed)
