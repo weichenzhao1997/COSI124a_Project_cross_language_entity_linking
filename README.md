@@ -1,15 +1,27 @@
-Combined train and dev split: processed_corpus/Combined
+# Cross-Language Entity Linking
 
-We are assigning ICD-11 labels as opposed to UMLS labels as originally planned as UMLS does not support Chinese at all
-That being said, the ICD-11 API is not doing true Traditional Chinese matching — it is doing Simplified Chinese matching and accepting some Traditional Chinese input by accident when characters overlap.
+## Corpus
 
-assign_cuis_ICD-11.py: this script assigns ICD-11 labels (no translation)
-assign_cuis_ICD-11_with_translation.py: this script is currently the same as assign_cuis_ICD-11.py, need to add OpenCC translation step
-    <b>when running assign_cuis_ICD-11_with_translation.py, DO NOT run it on the entire corpus (it takes forever); run it only on the traditional chinese data and add it manually to the assigned English and Simplified Chinese data </b>
+Combined train and dev splits are located in [processed_corpus/Combined/](processed_corpus/Combined/).
 
+## ICD-11 Labeling
 
-To do: 
-1 - assign CUIs to the combined train set (currently missing the simplified chinese train set)
-2 - complete experiment 1 by combining 
-3 - experiment 2: add OpenCC translation to the traditional chinese splits, assign CUIs to the translated data, run frozen SapBERT on it
-4 - fine-tuning experiments
+We assign **ICD-11** labels instead of UMLS labels as originally planned — UMLS does not support Chinese.
+
+> **Note:** The ICD-11 API does not perform true Traditional Chinese matching. It matches against Simplified Chinese and accepts some Traditional Chinese input incidentally when characters overlap.
+
+## Scripts
+
+| Script | Description |
+|---|---|
+| `assign_cuis_ICD-11.py` | Assigns ICD-11 labels (no translation) |
+| `assign_cuis_ICD-11_with_translation.py` | Same as above — OpenCC translation step not yet added |
+
+> **Warning:** When running `assign_cuis_ICD-11_with_translation.py`, **do not run it on the entire corpus** (it takes very long). Run it only on the Traditional Chinese data, then manually merge the results with the assigned English and Simplified Chinese data.
+
+## To Do
+
+1. Assign CUIs to the combined train set (currently missing the Simplified Chinese train split)
+2. Complete Experiment 1 by combining the splits
+3. **Experiment 2:** Add OpenCC translation to Traditional Chinese splits, assign CUIs to translated data, run frozen SapBERT on it
+4. Fine-tuning experiments
