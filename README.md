@@ -4,6 +4,11 @@
 
 Combined train and dev splits are located in [processed_corpus/Combined/](processed_corpus/Combined/).
 
+### Splits
+1. The finalized train split with CUIs:  processed_corpus/Combined/train combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
+
+2. The finalized dev split with CUIs: processed_corpus/Combined/dev/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
+
 ## ICD-11 Labeling
 
 We assign **ICD-11** labels instead of UMLS labels as originally planned — UMLS does not support Chinese.
