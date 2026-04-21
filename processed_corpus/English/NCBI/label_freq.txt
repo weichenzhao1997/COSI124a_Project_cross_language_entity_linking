@@ -1,0 +1,41 @@
+[train] Label frequency (out of 5143 entities):
+  SpecificDisease: 2955 (57.46%)
+  Modifier: 1291 (25.10%)
+  DiseaseClass: 781 (15.19%)
+  CompositeMention: 116 (2.26%)
+
+[dev] Label frequency (out of 791 entities):
+  SpecificDisease: 409 (51.71%)
+  Modifier: 218 (27.56%)
+  DiseaseClass: 127 (16.06%)
+  CompositeMention: 37 (4.68%)
+
+[test] Label frequency (out of 961 entities):
+  SpecificDisease: 556 (57.86%)
+  Modifier: 264 (27.47%)
+  DiseaseClass: 121 (12.59%)
+  CompositeMention: 20 (2.08%)
+
+[train] All label frequencies (out of 5143 entities):
+  SpecificDisease: 2955 (57.46%)
+  Modifier: 1291 (25.10%)
+  DiseaseClass: 781 (15.19%)
+  CompositeMention: 116 (2.26%)
+SpecificDisease ratio: 2955 / 5143 = 57.46%
+Documents retained: 562 / 593
+
+[dev] All label frequencies (out of 791 entities):
+  SpecificDisease: 409 (51.71%)
+  Modifier: 218 (27.56%)
+  DiseaseClass: 127 (16.06%)
+  CompositeMention: 37 (4.68%)
+SpecificDisease ratio: 409 / 791 = 51.71%
+Documents retained: 85 / 100
+
+[test] All label frequencies (out of 961 entities):
+  SpecificDisease: 556 (57.86%)
+  Modifier: 264 (27.47%)
+  DiseaseClass: 121 (12.59%)
+  CompositeMention: 20 (2.08%)
+SpecificDisease ratio: 556 / 961 = 57.86%
+Documents retained: 93 / 100

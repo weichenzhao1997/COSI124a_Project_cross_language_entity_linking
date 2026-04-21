@@ -1,0 +1,32 @@
+[train] Label frequency (out of 82649 entities):
+  bod: 24106 (29.17%)
+  dis: 19371 (23.44%)
+  sym: 17118 (20.71%)
+  pro: 9688 (11.72%)
+  ite: 4410 (5.34%)
+  dru: 4379 (5.30%)
+  mic: 2343 (2.83%)
+  equ: 889 (1.08%)
+  dep: 345 (0.42%)
+
+[dev] Label frequency (out of 26081 entities):
+  bod: 7361 (28.22%)
+  dis: 6328 (24.26%)
+  sym: 5297 (20.31%)
+  pro: 3319 (12.73%)
+  dru: 1566 (6.00%)
+  ite: 1339 (5.13%)
+  mic: 621 (2.38%)
+  equ: 164 (0.63%)
+  dep: 86 (0.33%)
+
+[combined] Label frequency (out of 108730 entities):
+  bod: 31467 (28.94%)
+  dis: 25699 (23.64%)
+  sym: 22415 (20.62%)
+  pro: 13007 (11.96%)
+  dru: 5945 (5.47%)
+  ite: 5749 (5.29%)
+  mic: 2964 (2.73%)
+  equ: 1053 (0.97%)
+  dep: 431 (0.40%)
