@@ -4,8 +4,8 @@ import json
 from config import CLIENT_ID, CLIENT_SECRET
 from datetime import datetime, timedelta
 
-input_path  = "processed_corpus/Combined/dev/combined_disease_corpus_dev_cleaned.jsonl"
-output_path = "processed_corpus/Combined/dev/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl"
+input_path  = "processed_corpus/Combined/no_translation/test/combined_disease_corpus_test_cleaned.jsonl"
+output_path = "processed_corpus/Combined/no_translation/test/combined_disease_corpus_test_with_cuis_icd11_cleaned.jsonl"
 cache_path  = "processed_corpus/Combined/icd11_cache.json"
 
 
