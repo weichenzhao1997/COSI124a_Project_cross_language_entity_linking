@@ -43,6 +43,7 @@ Experiment 2-v2 - fronzen baseline on translated corpus with enriched index: exp
 
 ## To Do
 
-1. Assign CUIs to the combined test set with translation
+1. Assign CUIs to the combined dev and test set with translation
 3. **Experiment 2:** Finish it by evaluting on test set
 4. **Experiment 3:** Fine-tuning experiments
+> **Note:** All further experiments should be performed with enriched index, using the translated corpus : processed_corpus/Combined/with_translation/train/combined_disease_corpus_train_with_cuis_icd11_cleaned_simplified.jsonl
