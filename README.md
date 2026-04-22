@@ -11,8 +11,12 @@ Combined train and dev splits are located in [processed_corpus/Combined/](proces
 
 2. The finalized dev split with CUIs:  processed_corpus/Combined/no_translation/dev/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
 
+3. The finalized test split with CUIs:  processed_corpus/Combined/no_translation/test/combined_disease_corpus_test_with_cuis_icd11_cleaned.jsonl
+
 #### with translation
-1. The finalized train split with CUIs:  processed_corpus/Combined/with_translation/train/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
+1. The finalized train split with CUIs:  processed_corpus/Combined/with_translation/train/combined_disease_corpus_train_with_cuis_icd11_cleaned_simplified.jsonl
+
+> **Note:** There is another version translated with different strategy that yields worse performance: processed_corpus/Combined/with_translation/train/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
 
 2. The finalized dev split with CUIs: processed_corpus/Combined/with_translation/dev/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl
 
@@ -30,11 +34,15 @@ We assign **ICD-11** labels instead of UMLS labels as originally planned — UML
 | `assign_cuis_ICD-11_with_translation.py` | Assigns ICD-11 labels (with translation) |
 
 ## Experiments
-Experiment 1 - fronzen baseline on untranslated corpus: experiments/frozen_sapbert 
+Experiment 1 - fronzen baseline on untranslated corpus: experiments/frozen_sapbert/frozen_sapbert_baseline_no_translation.ipynb
+
+Experiment 1b - fronzen baseline on untranslated corpus with enriched index: experiments/frozen_sapbert/frozen_sapbert_baseline_enriched_index.ipynb
+
+Experiment 2-v2 - fronzen baseline on translated corpus with enriched index: experiments/frozen_sapbert_with_translation-v2/frozen_sapbert_baseline_with_translation-v2.ipynb
+> **Note:** This experiment uses the translated corpus with better performance
 
 ## To Do
 
-1. Assign CUIs to the combined test set (currently missing the Simplified Chinese train split)
-2. Complete Experiment 1 by evaluating on the combined test split
-3. **Experiment 2:** run frozen SapBERT on corpus with translation
+1. Assign CUIs to the combined test set with translation
+3. **Experiment 2:** Finish it by evaluting on test set
 4. **Experiment 3:** Fine-tuning experiments
