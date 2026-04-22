@@ -1,0 +1,18 @@
+
+=== ENGLISH ===
+Sentences: 562
+DISEASE count: 2955
+Avg entity length: 16.16
+Entity density: 5.26
+
+=== SIMPLIFIED_CHINESE ===
+Sentences: 15000
+DISEASE count: 19371
+Avg entity length: 4.31
+Entity density: 1.29
+
+=== TRADITIONAL_CHINESE ===
+Sentences: 5251
+DISEASE count: 9074
+Avg entity length: 2.20
+Entity density: 1.73

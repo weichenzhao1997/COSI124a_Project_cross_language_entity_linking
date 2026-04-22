@@ -2,3 +2,4 @@
 config.py
 UMLS
 quickumls*
+__pycache__/
