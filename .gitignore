@@ -2,3 +2,4 @@
 config.py
 UMLS
 quickumls*
+.DS_Store
