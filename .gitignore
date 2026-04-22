@@ -3,3 +3,4 @@ config.py
 UMLS
 quickumls*
 __pycache__/
+.idea/
