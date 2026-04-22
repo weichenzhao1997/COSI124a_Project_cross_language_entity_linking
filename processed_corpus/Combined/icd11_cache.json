@@ -49634,5 +49634,4637 @@
   "zh-TW::重症疾病": {
     "code": null,
     "label": null
+  },
+  "zh::心脏衰竭": {
+    "code": "http://id.who.int/icd/entity/1458683894",
+    "label": "心力衰竭"
+  },
+  "zh::郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::大肠癌": {
+    "code": "http://id.who.int/icd/entity/773139368",
+    "label": "结肠腺癌"
+  },
+  "zh::肾脏癌": {
+    "code": "http://id.who.int/icd/entity/1075394530",
+    "label": "肾癌"
+  },
+  "zh::过敏": {
+    "code": "http://id.who.int/icd/entity/405257730",
+    "label": "药物超敏反应"
+  },
+  "zh::急性中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺": {
+    "code": null,
+    "label": null
+  },
+  "zh::自律神经失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝癌肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::忧郁症": {
+    "code": "http://id.who.int/icd/entity/546689346",
+    "label": "痴呆"
+  },
+  "zh::阿凡达忧郁": {
+    "code": null,
+    "label": null
+  },
+  "zh::感染性单核球增生症": {
+    "code": null,
+    "label": null
+  },
+  "zh::黄热病": {
+    "code": "http://id.who.int/icd/entity/383352795",
+    "label": "黄热病"
+  },
+  "zh::良性肌肉骨化肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫肌瘤": {
+    "code": "http://id.who.int/icd/entity/455734276",
+    "label": "子宫平滑肌瘤"
+  },
+  "zh::子宫腺肌症": {
+    "code": null,
+    "label": null
+  },
+  "zh::病变": {
+    "code": "http://id.who.int/icd/entity/1525792972",
+    "label": "关节病"
+  },
+  "zh::干癣": {
+    "code": null,
+    "label": null
+  },
+  "zh::阿兹海默症": {
+    "code": null,
+    "label": null
+  },
+  "zh::干燥症": {
+    "code": "http://id.who.int/icd/entity/75167172",
+    "label": "角膜干燥症"
+  },
+  "zh::红斑性狼疮": {
+    "code": "http://id.who.int/icd/entity/1443317238",
+    "label": "红斑狼疮"
+  },
+  "zh::复合性囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::过动症": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎": {
+    "code": "http://id.who.int/icd/entity/1733024563",
+    "label": "宫颈发炎"
+  },
+  "zh::β重型海洋性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::传染性疾病": {
+    "code": "http://id.who.int/icd/entity/1287112788",
+    "label": "抗多种传染性疾病的免疫接种的需要"
+  },
+  "zh::发胖": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆结石": {
+    "code": "http://id.who.int/icd/entity/217841033",
+    "label": "未特指的胆石症不伴胆囊炎或胆管炎"
+  },
+  "zh::肝内胆管结石": {
+    "code": "http://id.who.int/icd/entity/957368526",
+    "label": "肝内胆管结石"
+  },
+  "zh::总胆管结石": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆囊结石": {
+    "code": "http://id.who.int/icd/entity/217841033",
+    "label": "未特指的胆石症不伴胆囊炎或胆管炎"
+  },
+  "zh::登革热": {
+    "code": "http://id.who.int/icd/entity/1959883044",
+    "label": "登革热"
+  },
+  "zh::慢性肾脏病": {
+    "code": "http://id.who.int/icd/entity/412389819",
+    "label": "慢性肾脏病"
+  },
+  "zh::子宫颈癌": {
+    "code": "http://id.who.int/icd/entity/1743710977",
+    "label": "宫颈癌"
+  },
+  "zh::阴茎癌": {
+    "code": "http://id.who.int/icd/entity/969101922",
+    "label": "阴茎恶性肿瘤"
+  },
+  "zh::原发性颤抖": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺亢进": {
+    "code": "http://id.who.int/icd/entity/1470387017",
+    "label": "甲状腺毒症"
+  },
+  "zh::肿块": {
+    "code": "http://id.who.int/icd/entity/1844086508",
+    "label": "生物学行为未知的肿瘤，除外淋巴、造血、中枢神经系统或相关组织"
+  },
+  "zh::传染疾病": {
+    "code": "http://id.who.int/icd/entity/1287112788",
+    "label": "抗多种传染性疾病的免疫接种的需要"
+  },
+  "zh::爱滋": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮下囊肿": {
+    "code": "http://id.who.int/icd/entity/500633134",
+    "label": "皮下暗色丝孢菌囊肿"
+  },
+  "zh::聋": {
+    "code": "http://id.who.int/icd/entity/1154730210",
+    "label": "聋"
+  },
+  "zh::肠癌": {
+    "code": "http://id.who.int/icd/entity/150210507",
+    "label": "肠恶性肿瘤"
+  },
+  "zh::大肠直肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性肠胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::表皮囊肿": {
+    "code": "http://id.who.int/icd/entity/1840564352",
+    "label": "表皮样囊肿"
+  },
+  "zh::慢性肾丝球肾炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::主动脉弓硬化": {
+    "code": null,
+    "label": null
+  },
+  "zh::黑头粉刺": {
+    "code": "http://id.who.int/icd/entity/2077814774",
+    "label": "粉刺型痤疮"
+  },
+  "zh::细胞癌": {
+    "code": "http://id.who.int/icd/entity/825917541",
+    "label": "肾细胞癌，除外肾盂"
+  },
+  "zh::Ｂ细胞急性淋巴性白血病": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::自体免疫疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::圆锥角膜": {
+    "code": "http://id.who.int/icd/entity/945228622",
+    "label": "圆锥角膜"
+  },
+  "zh::子宫内膜异位症": {
+    "code": "http://id.who.int/icd/entity/1838213761",
+    "label": "子宫内膜异位症"
+  },
+  "zh::囊肿": {
+    "code": "http://id.who.int/icd/entity/828658864",
+    "label": "皮肤囊肿"
+  },
+  "zh::代谢症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::腕沟症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::霉浆菌肺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::胃幽门螺旋杆菌感染": {
+    "code": null,
+    "label": null
+  },
+  "zh::面疱": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻度地中海贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::黏膜下肿瘤": {
+    "code": "http://id.who.int/icd/entity/1443460360",
+    "label": "下牙槽粘膜良性肿瘤"
+  },
+  "zh::忧郁": {
+    "code": "http://id.who.int/icd/entity/2139612744",
+    "label": "复发性抑郁障碍，目前为不伴精神病性症状的重度发作"
+  },
+  "zh::急性缺血性中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性疲劳": {
+    "code": "http://id.who.int/icd/entity/569175314",
+    "label": "病毒感染后疲劳综合征"
+  },
+  "zh::骨质疏松症": {
+    "code": "http://id.who.int/icd/entity/109776301",
+    "label": "新生儿骨质减少"
+  },
+  "zh::子宫体癌": {
+    "code": "http://id.who.int/icd/entity/1551596364",
+    "label": "子宫恶性肿瘤，部位未特指"
+  },
+  "zh::精神官能性忧郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::先天性地中海型贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::高胆固醇": {
+    "code": "http://id.who.int/icd/entity/875976032",
+    "label": "高胆固醇血症"
+  },
+  "zh::胰脏炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::退化性关节炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻度认知障碍": {
+    "code": "http://id.who.int/icd/entity/195531803",
+    "label": "轻度神经认知障碍"
+  },
+  "zh::障碍": {
+    "code": "http://id.who.int/icd/entity/987486843",
+    "label": "皮肤功能受限或障碍"
+  },
+  "zh::手机幻听症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃炎": {
+    "code": "http://id.who.int/icd/entity/48858533",
+    "label": "化学性胃炎"
+  },
+  "zh::过劳": {
+    "code": null,
+    "label": null
+  },
+  "zh::晒伤": {
+    "code": "http://id.who.int/icd/entity/318744822",
+    "label": "晒伤"
+  },
+  "zh::子宫肌腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::间质性膀胱炎": {
+    "code": "http://id.who.int/icd/entity/2093682836",
+    "label": "慢性原发性膀胱疼痛综合征"
+  },
+  "zh::心脏血管动脉硬化": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻郁": {
+    "code": null,
+    "label": null
+  },
+  "zh::过动": {
+    "code": null,
+    "label": null
+  },
+  "zh::标靶药": {
+    "code": null,
+    "label": null
+  },
+  "zh::亢进": {
+    "code": "http://id.who.int/icd/entity/1535148777",
+    "label": "食欲亢进"
+  },
+  "zh::椎间盘突出": {
+    "code": "http://id.who.int/icd/entity/1131133085",
+    "label": "椎间盘滑脱，不可归类在他处者"
+  },
+  "zh::耳中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮肤炎": {
+    "code": "http://id.who.int/icd/entity/394105231",
+    "label": "婴儿或儿童的肛门生殖器链球菌性蜂窝织炎"
+  },
+  "zh::老化型黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::囊肿痘": {
+    "code": null,
+    "label": null
+  },
+  "zh::闭锁型粉刺": {
+    "code": null,
+    "label": null
+  },
+  "zh::癌疲惫": {
+    "code": null,
+    "label": null
+  },
+  "zh::大肠镜检": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺机能亢进": {
+    "code": "http://id.who.int/icd/entity/1470387017",
+    "label": "甲状腺毒症"
+  },
+  "zh::侵袭癌": {
+    "code": "http://id.who.int/icd/entity/175963120",
+    "label": "乳腺侵袭性导管癌"
+  },
+  "zh::乳房纤纤囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::乳房纤维囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::巧克力囊肿": {
+    "code": "http://id.who.int/icd/entity/797673629",
+    "label": "深部卵巢子宫内膜异位症"
+  },
+  "zh::肺积水": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫外孕": {
+    "code": null,
+    "label": null
+  },
+  "zh::血肿": {
+    "code": "http://id.who.int/icd/entity/825966241",
+    "label": "未特指身体区域血肿"
+  },
+  "zh::气管旁淋巴结核": {
+    "code": null,
+    "label": null
+  },
+  "zh::纵隔内肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::过劳死": {
+    "code": null,
+    "label": null
+  },
+  "zh::先天性脊椎侧弯": {
+    "code": null,
+    "label": null
+  },
+  "zh::退化性关节病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::牙龈炎": {
+    "code": "http://id.who.int/icd/entity/1542018172",
+    "label": "慢性牙龈炎"
+  },
+  "zh::急性发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::体重过重": {
+    "code": null,
+    "label": null
+  },
+  "zh::心脏": {
+    "code": "http://id.who.int/icd/entity/1196650747",
+    "label": "心脏"
+  },
+  "zh::出血性脑中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::剥离": {
+    "code": "http://id.who.int/icd/entity/1153253585",
+    "label": "与胎盘早剥有关的孕产妇医疗"
+  },
+  "zh::伤害": {
+    "code": "http://id.who.int/icd/entity/638046280",
+    "label": "意图不确定的暴露于其他或未特指的药物、药剂或生物制品或其有害效应"
+  },
+  "zh::亚斯伯格症": {
+    "code": null,
+    "label": null
+  },
+  "zh::香港脚": {
+    "code": null,
+    "label": null
+  },
+  "zh::剥离性主动脉瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::人参": {
+    "code": null,
+    "label": null
+  },
+  "zh::腹股沟疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::大肠": {
+    "code": "http://id.who.int/icd/entity/1741413713",
+    "label": "大肠"
+  },
+  "zh::小肠": {
+    "code": "http://id.who.int/icd/entity/1928625572",
+    "label": "小肠"
+  },
+  "zh::网膜": {
+    "code": "http://id.who.int/icd/entity/956779537",
+    "label": "网膜"
+  },
+  "zh::开放性骨折": {
+    "code": "http://id.who.int/icd/entity/1882092801",
+    "label": "开放性骨折"
+  },
+  "zh::早发型子癫前症": {
+    "code": null,
+    "label": null
+  },
+  "zh::缺血性中风": {
+    "code": "http://id.who.int/icd/entity/895850906",
+    "label": "产前或围产期缺血性中风所致癫痫"
+  },
+  "zh::出血性中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::头皮屑": {
+    "code": "http://id.who.int/icd/entity/1291606644",
+    "label": "头皮糠疹"
+  },
+  "zh::分离焦虑症": {
+    "code": null,
+    "label": null
+  },
+  "zh::自发性肉芽型乳腺炎病脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎型乳癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::椎间盘凸出": {
+    "code": null,
+    "label": null
+  },
+  "zh::气喘": {
+    "code": "http://id.who.int/icd/entity/685476566",
+    "label": "哮鸣音"
+  },
+  "zh::脓包": {
+    "code": "http://id.who.int/icd/entity/1518322360",
+    "label": "皮肤单纯疱疹病毒感染"
+  },
+  "zh::中低位直肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::膀胱过动症": {
+    "code": null,
+    "label": null
+  },
+  "zh::危险传染病": {
+    "code": "http://id.who.int/icd/entity/1328478660",
+    "label": "与传染病或某些其他情况相关的危险因素"
+  },
+  "zh::感染性关节炎": {
+    "code": "http://id.who.int/icd/entity/622473950",
+    "label": "关节直接感染"
+  },
+  "zh::心轴逆转": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑性麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::二度烧烫伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性合并症": {
+    "code": null,
+    "label": null
+  },
+  "zh::毒疮": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮质醇分泌腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::月亮脸": {
+    "code": null,
+    "label": null
+  },
+  "zh::原发性肾上腺恶性肿瘤": {
+    "code": "http://id.who.int/icd/entity/1766185236",
+    "label": "肾上腺恶性肿瘤"
+  },
+  "zh::转移性恶性肿瘤": {
+    "code": "http://id.who.int/icd/entity/1917052637",
+    "label": "转移性恶性肿瘤"
+  },
+  "zh::重型地中海型贫血": {
+    "code": "http://id.who.int/icd/entity/1583088290",
+    "label": "重型β地中海贫血"
+  },
+  "zh::地中海型贫血": {
+    "code": "http://id.who.int/icd/entity/330259189",
+    "label": "地中海贫血"
+  },
+  "zh::病毒性肠胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::阵发性暴怒障碍症": {
+    "code": null,
+    "label": null
+  },
+  "zh::运动伤害": {
+    "code": null,
+    "label": null
+  },
+  "zh::声带炎": {
+    "code": "http://id.who.int/icd/entity/682343439",
+    "label": "声带结节"
+  },
+  "zh::爱滋病": {
+    "code": null,
+    "label": null
+  },
+  "zh::前庭神经炎": {
+    "code": "http://id.who.int/icd/entity/958752541",
+    "label": "前庭神经炎"
+  },
+  "zh::适应症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝肿瘤": {
+    "code": "http://id.who.int/icd/entity/276179448",
+    "label": "肝肿瘤"
+  },
+  "zh::大肠激躁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::渐冻症": {
+    "code": null,
+    "label": null
+  },
+  "zh::缺血性脑中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑出血并发症": {
+    "code": null,
+    "label": null
+  },
+  "zh::横纹肌溶解症": {
+    "code": "http://id.who.int/icd/entity/248272428",
+    "label": "继发性横纹肌溶解症"
+  },
+  "zh::阻塞性细支气管炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::小囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::勃起功能障碍": {
+    "code": "http://id.who.int/icd/entity/575009603",
+    "label": "其他疾患引起的勃起功能障碍"
+  },
+  "zh::慢性寻麻疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::恶性骨癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::运动型疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::妇科肿瘤": {
+    "code": "http://id.who.int/icd/entity/751805133",
+    "label": "女性生殖器官恶性肿瘤"
+  },
+  "zh::胃肠癌": {
+    "code": "http://id.who.int/icd/entity/1425921467",
+    "label": "其他或不明消化器官的恶性肿瘤"
+  },
+  "zh::妇癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::滴虫": {
+    "code": "http://id.who.int/icd/entity/1220564554",
+    "label": "毛滴虫病"
+  },
+  "zh::眼结石": {
+    "code": null,
+    "label": null
+  },
+  "zh::自体免疫性疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::牛皮癣": {
+    "code": null,
+    "label": null
+  },
+  "zh::异位性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::冠状动脉心脏病": {
+    "code": "http://id.who.int/icd/entity/1059873720",
+    "label": "冠状动脉疾病"
+  },
+  "zh::麦麸不耐症": {
+    "code": null,
+    "label": null
+  },
+  "zh::红疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::蟹足肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::免疫风湿病": {
+    "code": null,
+    "label": null
+  },
+  "zh::腿伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::背伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::直肠癌": {
+    "code": "http://id.who.int/icd/entity/1113099195",
+    "label": "直肠恶性肿瘤"
+  },
+  "zh::直肠炎": {
+    "code": "http://id.who.int/icd/entity/706550431",
+    "label": "某些非感染性结肠炎或直肠炎"
+  },
+  "zh::急性脑中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::膝关节退化": {
+    "code": null,
+    "label": null
+  },
+  "zh::双侧多发性乳癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆管炎": {
+    "code": "http://id.who.int/icd/entity/1712178777",
+    "label": "胆管炎"
+  },
+  "zh::胆囊炎": {
+    "code": "http://id.who.int/icd/entity/786251500",
+    "label": "胆囊炎"
+  },
+  "zh::石头": {
+    "code": "http://id.who.int/icd/entity/2102976705",
+    "label": "进行性骨化性纤维发育不良"
+  },
+  "zh::肠躁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠病毒": {
+    "code": "http://id.who.int/icd/entity/516524160",
+    "label": "肠病毒引起的脑炎"
+  },
+  "zh::蚕豆症": {
+    "code": null,
+    "label": null
+  },
+  "zh::自体免疫性溶血": {
+    "code": null,
+    "label": null
+  },
+  "zh::非结合型胆红素": {
+    "code": "http://id.who.int/icd/entity/1947520963",
+    "label": "Gilbert综合征"
+  },
+  "zh::结合型胆红素": {
+    "code": "http://id.who.int/icd/entity/1947520963",
+    "label": "Gilbert综合征"
+  },
+  "zh::体癣": {
+    "code": "http://id.who.int/icd/entity/87792802",
+    "label": "躯干或四肢皮肤癣菌病"
+  },
+  "zh::胆经": {
+    "code": "http://id.who.int/icd/entity/773606634",
+    "label": "胆热证（TM1）"
+  },
+  "zh::膀胱经": {
+    "code": "http://id.who.int/icd/entity/1112257005",
+    "label": "足太阳膀胱经证 （TM1）"
+  },
+  "zh::经络": {
+    "code": "http://id.who.int/icd/entity/677438911",
+    "label": "经络证（TM1）"
+  },
+  "zh::颞颚关节症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::伪肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::次发性高血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮肤疾病": {
+    "code": "http://id.who.int/icd/entity/1639304259",
+    "label": "皮肤疾病"
+  },
+  "zh::富贵手": {
+    "code": null,
+    "label": null
+  },
+  "zh::注意力不足过动症": {
+    "code": null,
+    "label": null
+  },
+  "zh::创伤后症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::长短脚": {
+    "code": null,
+    "label": null
+  },
+  "zh::脂漏性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性荨麻疹": {
+    "code": "http://id.who.int/icd/entity/24521776",
+    "label": "急性荨麻疹"
+  },
+  "zh::慢性荨麻疹": {
+    "code": "http://id.who.int/icd/entity/901000137",
+    "label": "慢性荨麻疹"
+  },
+  "zh::基底细胞癌": {
+    "code": "http://id.who.int/icd/entity/1770092375",
+    "label": "基底细胞癌，NOS"
+  },
+  "zh::化脓性扁桃腺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::严重骨质疏松": {
+    "code": null,
+    "label": null
+  },
+  "zh::非特异性肠胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::灰霉病": {
+    "code": null,
+    "label": null
+  },
+  "zh::血管动脉硬化": {
+    "code": "http://id.who.int/icd/entity/109367356",
+    "label": "动脉粥样硬化性慢性动脉闭塞性疾病"
+  },
+  "zh::小中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::子癫前症": {
+    "code": null,
+    "label": null
+  },
+  "zh::后痉挛": {
+    "code": "http://id.who.int/icd/entity/157838476",
+    "label": "痛性痉挛或痉挛"
+  },
+  "zh::子痫症": {
+    "code": null,
+    "label": null
+  },
+  "zh::非小细胞肺癌": {
+    "code": "http://id.who.int/icd/entity/1969743250",
+    "label": "非小细胞肺癌"
+  },
+  "zh::扁平苔癣": {
+    "code": "http://id.who.int/icd/entity/572258139",
+    "label": "毛发扁平苔癣"
+  },
+  "zh::寻常性天疱疮": {
+    "code": "http://id.who.int/icd/entity/278358681",
+    "label": "寻常型天疱疮"
+  },
+  "zh::大疱性类天疱疮": {
+    "code": "http://id.who.int/icd/entity/233308710",
+    "label": "大疱性类天疱疮"
+  },
+  "zh::低容积性低血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::姿势性低血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺功能低下": {
+    "code": "http://id.who.int/icd/entity/1090587977",
+    "label": "获得性甲状腺功能减退症"
+  },
+  "zh::骨松症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾上腺增生性肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::原发性高醛固酮症": {
+    "code": null,
+    "label": null
+  },
+  "zh::尿道结石": {
+    "code": "http://id.who.int/icd/entity/1853962389",
+    "label": "尿道结石"
+  },
+  "zh::蜂窝性组织炎": {
+    "code": "http://id.who.int/icd/entity/644291175",
+    "label": "蜂窝组织炎，不可归类在他处者"
+  },
+  "zh::急性期发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::贝尔氏麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::老化性黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::退化性膝关节炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻度知能障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::深部静脉栓塞": {
+    "code": null,
+    "label": null
+  },
+  "zh::敏感性牙齿": {
+    "code": null,
+    "label": null
+  },
+  "zh::植体牙周炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::脾肿大肝硬化": {
+    "code": "http://id.who.int/icd/entity/1282210072",
+    "label": "脾大，不可归类在他处者"
+  },
+  "zh::思考障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::知觉障碍": {
+    "code": "http://id.who.int/icd/entity/718595087",
+    "label": "致幻剂后知觉障碍"
+  },
+  "zh::胰脏癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::多囊性囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::左肾囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::原发性高胆固醇血症": {
+    "code": "http://id.who.int/icd/entity/163750325",
+    "label": "原发性高胆固醇血症"
+  },
+  "zh::近视": {
+    "code": "http://id.who.int/icd/entity/1666440799",
+    "label": "近视"
+  },
+  "zh::静脉曲张": {
+    "code": "http://id.who.int/icd/entity/1078773185",
+    "label": "下肢以外部位的静脉曲张"
+  },
+  "zh::肛门廔管": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆道肠道廔管": {
+    "code": null,
+    "label": null
+  },
+  "zh::身心障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::肋软骨炎": {
+    "code": "http://id.who.int/icd/entity/830290763",
+    "label": "肋软骨炎"
+  },
+  "zh::内出血": {
+    "code": "http://id.who.int/icd/entity/940081636",
+    "label": "出血，不可归类在他处者"
+  },
+  "zh::脑下垂体肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::缺损": {
+    "code": "http://id.who.int/icd/entity/426429380",
+    "label": "循环系统疾病"
+  },
+  "zh::勃起障碍": {
+    "code": "http://id.who.int/icd/entity/575009603",
+    "label": "其他疾患引起的勃起功能障碍"
+  },
+  "zh::肠胃型感冒": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫内膜癌": {
+    "code": "http://id.who.int/icd/entity/959493854",
+    "label": "子宫体恶性肿瘤"
+  },
+  "zh::脊椎侧弯": {
+    "code": null,
+    "label": null
+  },
+  "zh::小头畸形症": {
+    "code": "http://id.who.int/icd/entity/64477889",
+    "label": "小头畸形-骨发育不良-原基性侏儒综合征2型"
+  },
+  "zh::致命性低血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::小球性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::海洋性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::圆肩": {
+    "code": null,
+    "label": null
+  },
+  "zh::驼背": {
+    "code": "http://id.who.int/icd/entity/1042340920",
+    "label": "驼背蛇蛇毒"
+  },
+  "zh::黏膜破损型": {
+    "code": null,
+    "label": null
+  },
+  "zh::浅溃型食道逆流ＧＥＲＤ": {
+    "code": null,
+    "label": null
+  },
+  "zh::无黏膜破损型": {
+    "code": null,
+    "label": null
+  },
+  "zh::无黏磨破损型": {
+    "code": null,
+    "label": null
+  },
+  "zh::眼睑缘炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::引产": {
+    "code": "http://id.who.int/icd/entity/327937142",
+    "label": "引产失败"
+  },
+  "zh::布凯特氏淋巴癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::成年型Ｔ细胞白血病": {
+    "code": null,
+    "label": null
+  },
+  "zh::急慢性鼻窦炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::疥疮": {
+    "code": "http://id.who.int/icd/entity/876005123",
+    "label": "疥疮"
+  },
+  "zh::半侧偏瘫": {
+    "code": null,
+    "label": null
+  },
+  "zh::擦伤": {
+    "code": "http://id.who.int/icd/entity/377475788",
+    "label": "擦伤"
+  },
+  "zh::裂孔疝气": {
+    "code": "http://id.who.int/icd/entity/1294458332",
+    "label": "疝"
+  },
+  "zh::手足综合症": {
+    "code": "http://id.who.int/icd/entity/812740125",
+    "label": "运动障碍性脑瘫"
+  },
+  "zh::轻型地中海型贫血": {
+    "code": "http://id.who.int/icd/entity/251828769",
+    "label": "轻型地中海贫血"
+  },
+  "zh::代谢性症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::性成瘾": {
+    "code": "http://id.who.int/icd/entity/1449338903",
+    "label": "成瘾"
+  },
+  "zh::激酶抑制剂": {
+    "code": "http://id.who.int/icd/entity/6720716",
+    "label": "蛋白激酶抑制剂"
+  },
+  "zh::肛门口": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性支气管炎": {
+    "code": "http://id.who.int/icd/entity/290835130",
+    "label": "慢性支气管炎"
+  },
+  "zh::内脏型肥胖": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝转移": {
+    "code": "http://id.who.int/icd/entity/162810284",
+    "label": "肝转移性恶性肿瘤"
+  },
+  "zh::肺转移": {
+    "code": "http://id.who.int/icd/entity/1976635094",
+    "label": "肺转移性恶性肿瘤"
+  },
+  "zh::原发性高血压": {
+    "code": "http://id.who.int/icd/entity/761947693",
+    "label": "原发性高血压"
+  },
+  "zh::肾上素瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::单纯性疱疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::癌前病变": {
+    "code": "http://id.who.int/icd/entity/1134313939",
+    "label": "癌前黑病变，NOS"
+  },
+  "zh::异位ＡＣＴＨ分泌症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::上皮层肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::尖形湿疣": {
+    "code": null,
+    "label": null
+  },
+  "zh::肩关节周围炎": {
+    "code": "http://id.who.int/icd/entity/855105308",
+    "label": "粘连性肩关节囊炎"
+  },
+  "zh::泌尿生殖系统疾病": {
+    "code": "http://id.who.int/icd/entity/30659757",
+    "label": "泌尿生殖系统疾病"
+  },
+  "zh::治疗疾病": {
+    "code": "http://id.who.int/icd/entity/81821518",
+    "label": "疾病（除外恶性肿瘤）治疗后的随诊检查"
+  },
+  "zh::水脑": {
+    "code": null,
+    "label": null
+  },
+  "zh::窦性心律不整": {
+    "code": null,
+    "label": null
+  },
+  "zh::极轻度三尖瓣": {
+    "code": null,
+    "label": null
+  },
+  "zh::二尖瓣闭锁不全": {
+    "code": "http://id.who.int/icd/entity/637470326",
+    "label": "二尖瓣关闭不全"
+  },
+  "zh::黑色素细胞瘤": {
+    "code": "http://id.who.int/icd/entity/1562681815",
+    "label": "黑色素细胞瘤，NOS"
+  },
+  "zh::皮肤病": {
+    "code": "http://id.who.int/icd/entity/1556522143",
+    "label": "Buschke-Ollendorff综合征"
+  },
+  "zh::输尿管结石": {
+    "code": "http://id.who.int/icd/entity/1920593940",
+    "label": "输尿管结石"
+  },
+  "zh::直接型疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::小肠疾患": {
+    "code": null,
+    "label": null
+  },
+  "zh::接触性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::敏感性肌肤": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺功能不足": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性淋巴结发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆沙": {
+    "code": null,
+    "label": null
+  },
+  "zh::脓痂疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::痈": {
+    "code": "http://id.who.int/icd/entity/1456834066",
+    "label": "痈"
+  },
+  "zh::病理性淋巴结": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆囊瘜肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::化脓性肝脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::侵袭性牙周炎": {
+    "code": "http://id.who.int/icd/entity/351042657",
+    "label": "侵袭性牙周炎"
+  },
+  "zh::轻郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性肾病": {
+    "code": "http://id.who.int/icd/entity/412389819",
+    "label": "慢性肾脏病"
+  },
+  "zh::轻微逆流": {
+    "code": null,
+    "label": null
+  },
+  "zh::妇科癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::腰椎椎间盘突出": {
+    "code": "http://id.who.int/icd/entity/968794127",
+    "label": "腰椎间盘退变伴椎间盘脱出"
+  },
+  "zh::恶性皮肤癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::绞扼性坏死": {
+    "code": null,
+    "label": null
+  },
+  "zh::横隔膜裂孔疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::姿态性低血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑癌": {
+    "code": "http://id.who.int/icd/entity/189650925",
+    "label": "脑恶性肿瘤"
+  },
+  "zh::医院": {
+    "code": "http://id.who.int/icd/entity/2125227683",
+    "label": "医院"
+  },
+  "zh::类天疱疮": {
+    "code": "http://id.who.int/icd/entity/191659986",
+    "label": "天疱疮"
+  },
+  "zh::黑色素细胞癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::胸腺发育不全综合症": {
+    "code": "http://id.who.int/icd/entity/1868156761",
+    "label": "CATCH 22表型"
+  },
+  "zh::慢性皮肤粘膜真菌病": {
+    "code": null,
+    "label": null
+  },
+  "zh::舌头": {
+    "code": "http://id.who.int/icd/entity/2127673110",
+    "label": "其他消化系统损伤"
+  },
+  "zh::牙冠周围炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::大叶性细菌肺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::内膜炎": {
+    "code": "http://id.who.int/icd/entity/1488350448",
+    "label": "子宫（除外宫颈）炎性疾患"
+  },
+  "zh::气虚": {
+    "code": null,
+    "label": null
+  },
+  "zh::纵隔炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh::闭锁不全": {
+    "code": "http://id.who.int/icd/entity/637470326",
+    "label": "二尖瓣关闭不全"
+  },
+  "zh::子宫黏膜下肌瘤": {
+    "code": "http://id.who.int/icd/entity/1852953497",
+    "label": "子宫黏膜下平滑肌瘤"
+  },
+  "zh::扳机指": {
+    "code": "http://id.who.int/icd/entity/1447079126",
+    "label": "扳机指"
+  },
+  "zh::肾素瘤": {
+    "code": "http://id.who.int/icd/entity/1775808113",
+    "label": "球旁细胞性瘤"
+  },
+  "zh::牙齿疾病": {
+    "code": "http://id.who.int/icd/entity/1948101301",
+    "label": "牙齿硬组织疾病"
+  },
+  "zh::低位直肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性缺血性脑中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::纤维囊肿": {
+    "code": "http://id.who.int/icd/entity/976813491",
+    "label": "结节性光线性弹力纤维病伴囊肿或粉刺"
+  },
+  "zh::湿疹类": {
+    "code": "http://id.who.int/icd/entity/1887882424",
+    "label": "皮炎或湿疹"
+  },
+  "zh::思觉失调症": {
+    "code": null,
+    "label": null
+  },
+  "zh::药酒瘾滥用": {
+    "code": null,
+    "label": null
+  },
+  "zh::严重人格违常": {
+    "code": null,
+    "label": null
+  },
+  "zh::二尖瓣三尖瓣脱垂": {
+    "code": null,
+    "label": null
+  },
+  "zh::诺罗病毒": {
+    "code": "http://id.who.int/icd/entity/2128882598",
+    "label": "诺如病毒"
+  },
+  "zh::轮状病毒": {
+    "code": "http://id.who.int/icd/entity/545685931",
+    "label": "轮状病毒"
+  },
+  "zh::亨丁顿舞蹈症": {
+    "code": null,
+    "label": null
+  },
+  "zh::囊肿型": {
+    "code": "http://id.who.int/icd/entity/828658864",
+    "label": "皮肤囊肿"
+  },
+  "zh::结节型痘痘": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::化脓性": {
+    "code": "http://id.who.int/icd/entity/540964368",
+    "label": "化脓性子宫"
+  },
+  "zh::闷绝": {
+    "code": null,
+    "label": null
+  },
+  "zh::尖状湿疣": {
+    "code": null,
+    "label": null
+  },
+  "zh::疖": {
+    "code": "http://id.who.int/icd/entity/1081137172",
+    "label": "疖"
+  },
+  "zh::过敏性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::痤疮": {
+    "code": "http://id.who.int/icd/entity/1892393023",
+    "label": "痤疮"
+  },
+  "zh::疔疮": {
+    "code": "http://id.who.int/icd/entity/523887328",
+    "label": "疔疮（TM1）"
+  },
+  "zh::转移性癌症": {
+    "code": null,
+    "label": null
+  },
+  "zh::中东呼吸症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::合并症": {
+    "code": "http://id.who.int/icd/entity/1357352994",
+    "label": "碘缺乏相关性甲状腺疾病或合并症"
+  },
+  "zh::颈动脉疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾上腺瘤": {
+    "code": "http://id.who.int/icd/entity/1739480922",
+    "label": "肾上腺偶发瘤"
+  },
+  "zh::金属瓣": {
+    "code": null,
+    "label": null
+  },
+  "zh::湿性黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::骨松": {
+    "code": null,
+    "label": null
+  },
+  "zh::乳房纤维腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::溃疡息肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::热衰竭": {
+    "code": "http://id.who.int/icd/entity/1699744436",
+    "label": "热效应"
+  },
+  "zh::长ＱＴ综合症": {
+    "code": null,
+    "label": null
+  },
+  "zh::针眼": {
+    "code": null,
+    "label": null
+  },
+  "zh::口腔鳞状细胞癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::唾液腺肿瘤": {
+    "code": "http://id.who.int/icd/entity/480928417",
+    "label": "颌下腺或舌下腺恶性肿瘤"
+  },
+  "zh::肠胃道恶性肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::颞颚关节炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::金钱癣": {
+    "code": null,
+    "label": null
+  },
+  "zh::股癣": {
+    "code": "http://id.who.int/icd/entity/350028235",
+    "label": "阴股部皮肤癣菌病"
+  },
+  "zh::缺血性心脏病": {
+    "code": "http://id.who.int/icd/entity/1964269418",
+    "label": "缺血性心脏病"
+  },
+  "zh::厌食症": {
+    "code": "http://id.who.int/icd/entity/1385236228",
+    "label": "厌食症引起的骨质疏松"
+  },
+  "zh::甲状腺低下": {
+    "code": "http://id.who.int/icd/entity/1090587977",
+    "label": "获得性甲状腺功能减退症"
+  },
+  "zh::类淀粉沉积症": {
+    "code": "http://id.who.int/icd/entity/130204465",
+    "label": "脑淀粉样血管病引起的表面铁质沉积症"
+  },
+  "zh::神经纤维瘤症": {
+    "code": null,
+    "label": null
+  },
+  "zh::多发性内分泌肿瘤２Ｂ型": {
+    "code": null,
+    "label": null
+  },
+  "zh::盲肠炎": {
+    "code": "http://id.who.int/icd/entity/716935072",
+    "label": "急性盲肠炎"
+  },
+  "zh::摄护腺肥大": {
+    "code": null,
+    "label": null
+  },
+  "zh::红斑性狼疮肾炎": {
+    "code": "http://id.who.int/icd/entity/391776304",
+    "label": "系统性红斑狼疮肾小球肾炎综合征"
+  },
+  "zh::发炎性病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::症状性脑出血": {
+    "code": null,
+    "label": null
+  },
+  "zh::肩旋转肌腱炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::钙化性肌腱炎": {
+    "code": "http://id.who.int/icd/entity/856383808",
+    "label": "钙化性肌腱炎"
+  },
+  "zh::细菌性肠胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::髌骨股骨症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫卵巢": {
+    "code": "http://id.who.int/icd/entity/797673629",
+    "label": "深部卵巢子宫内膜异位症"
+  },
+  "zh::椎基底动脉循环不全症": {
+    "code": null,
+    "label": null
+  },
+  "zh::导管": {
+    "code": "http://id.who.int/icd/entity/1605887153",
+    "label": "导管腺癌"
+  },
+  "zh::小叶中重度不典型增生": {
+    "code": null,
+    "label": null
+  },
+  "zh::小叶原位癌": {
+    "code": "http://id.who.int/icd/entity/1721936290",
+    "label": "小叶原位癌，NOS"
+  },
+  "zh::更年期忧郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::脾肿大": {
+    "code": "http://id.who.int/icd/entity/1282210072",
+    "label": "脾大，不可归类在他处者"
+  },
+  "zh::胆囊癌": {
+    "code": "http://id.who.int/icd/entity/922082116",
+    "label": "胆囊恶性肿瘤"
+  },
+  "zh::异位性皮肤": {
+    "code": "http://id.who.int/icd/entity/544627354",
+    "label": "皮肤子宫内膜异位症"
+  },
+  "zh::子宫颈炎": {
+    "code": "http://id.who.int/icd/entity/1433247301",
+    "label": "宫颈炎"
+  },
+  "zh::板机指": {
+    "code": null,
+    "label": null
+  },
+  "zh::麦粒肿": {
+    "code": "http://id.who.int/icd/entity/1259721857",
+    "label": "睑腺炎"
+  },
+  "zh::慢性肝病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::胸椎侧弯": {
+    "code": null,
+    "label": null
+  },
+  "zh::网路成瘾症": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺囊肿": {
+    "code": "http://id.who.int/icd/entity/1405941300",
+    "label": "非毒性单个甲状腺结节"
+  },
+  "zh::大肠肿瘤": {
+    "code": "http://id.who.int/icd/entity/1675068535",
+    "label": "大肠肿瘤"
+  },
+  "zh::肺结节": {
+    "code": "http://id.who.int/icd/entity/935185539",
+    "label": "肺曲霉结节"
+  },
+  "zh::周一忧郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::三叉神经痛": {
+    "code": "http://id.who.int/icd/entity/1803581281",
+    "label": "三叉神经痛"
+  },
+  "zh::复发性口腔炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::失调": {
+    "code": "http://id.who.int/icd/entity/1671987290",
+    "label": "营养失调"
+  },
+  "zh::Ｂ细胞淋巴癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::梅尼尔氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肌萎缩性脊髓侧索硬化症": {
+    "code": null,
+    "label": null
+  },
+  "zh::老年性黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::骨松性骨折": {
+    "code": null,
+    "label": null
+  },
+  "zh::发展迟缓": {
+    "code": null,
+    "label": null
+  },
+  "zh::肢体运动功能障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::多重性障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::运动机能障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性胆囊炎": {
+    "code": "http://id.who.int/icd/entity/507077490",
+    "label": "慢性胆囊炎"
+  },
+  "zh::消化道溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::坐骨神经痛": {
+    "code": "http://id.who.int/icd/entity/2056651014",
+    "label": "坐骨神经痛"
+  },
+  "zh::输卵管癌": {
+    "code": "http://id.who.int/icd/entity/459381514",
+    "label": "输卵管恶性肿瘤"
+  },
+  "zh::原发性腹膜癌": {
+    "code": "http://id.who.int/icd/entity/315445782",
+    "label": "腹膜恶性肿瘤"
+  },
+  "zh::脑重症": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑梗塞": {
+    "code": null,
+    "label": null
+  },
+  "zh::淋巴腺肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::乌脚病": {
+    "code": null,
+    "label": null
+  },
+  "zh::早发型子痫前症": {
+    "code": null,
+    "label": null
+  },
+  "zh::周产期死亡": {
+    "code": null,
+    "label": null
+  },
+  "zh::产后忧郁": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性疲劳症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::胸腺发育不全症": {
+    "code": null,
+    "label": null
+  },
+  "zh::闭锁性粉刺": {
+    "code": null,
+    "label": null
+  },
+  "zh::两高": {
+    "code": null,
+    "label": null
+  },
+  "zh::颜面麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::多发性小瘜肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫颈息肉": {
+    "code": "http://id.who.int/icd/entity/396198272",
+    "label": "宫颈息肉"
+  },
+  "zh::恶性": {
+    "code": "http://id.who.int/icd/entity/1170831179",
+    "label": "其他肿瘤，恶性"
+  },
+  "zh::磷脂质症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::胎儿子宫内生长迟滞": {
+    "code": null,
+    "label": null
+  },
+  "zh::抗磷脂质症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::黄稠痰": {
+    "code": null,
+    "label": null
+  },
+  "zh::大舌头": {
+    "code": null,
+    "label": null
+  },
+  "zh::人类肠病毒": {
+    "code": null,
+    "label": null
+  },
+  "zh::小儿麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::止痛药": {
+    "code": null,
+    "label": null
+  },
+  "zh::动脉粥状硬化": {
+    "code": null,
+    "label": null
+  },
+  "zh::雄性秃": {
+    "code": null,
+    "label": null
+  },
+  "zh::冰棍体质": {
+    "code": null,
+    "label": null
+  },
+  "zh::流感并发症": {
+    "code": null,
+    "label": null
+  },
+  "zh::内乳突瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::叶状肉瘤": {
+    "code": "http://id.who.int/icd/entity/553558274",
+    "label": "叶状瘤，交界"
+  },
+  "zh::早泄": {
+    "code": "http://id.who.int/icd/entity/361151087",
+    "label": "男性早泄"
+  },
+  "zh::先天性早泄": {
+    "code": null,
+    "label": null
+  },
+  "zh::后天性早泄": {
+    "code": null,
+    "label": null
+  },
+  "zh::瓣膜性心脏病": {
+    "code": "http://id.who.int/icd/entity/593565106",
+    "label": "风湿性心内膜疾病，瓣膜未特指"
+  },
+  "zh::周边神经型": {
+    "code": null,
+    "label": null
+  },
+  "zh::水脑症": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性结膜炎": {
+    "code": "http://id.who.int/icd/entity/1548498139",
+    "label": "慢性结膜炎"
+  },
+  "zh::绒毛羊膜炎": {
+    "code": "http://id.who.int/icd/entity/203071698",
+    "label": "妊娠并发绒毛膜羊膜炎"
+  },
+  "zh::肝结节": {
+    "code": "http://id.who.int/icd/entity/1303332626",
+    "label": "肝结节病"
+  },
+  "zh::视网膜剥离": {
+    "code": null,
+    "label": null
+  },
+  "zh::牙本质知觉敏感症": {
+    "code": null,
+    "label": null
+  },
+  "zh::扭伤": {
+    "code": "http://id.who.int/icd/entity/1817417632",
+    "label": "足扭伤"
+  },
+  "zh::慢性过敏性鼻炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::颜面神经失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::冠状动脉疾病": {
+    "code": "http://id.who.int/icd/entity/1059873720",
+    "label": "冠状动脉疾病"
+  },
+  "zh::蜘蛛膜囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫颈糜烂": {
+    "code": "http://id.who.int/icd/entity/2055658974",
+    "label": "子宫颈糜烂伴宫颈炎"
+  },
+  "zh::粘液囊肿": {
+    "code": "http://id.who.int/icd/entity/1570409250",
+    "label": "阴茎粘液囊肿"
+  },
+  "zh::慢性肾脏": {
+    "code": "http://id.who.int/icd/entity/1771347021",
+    "label": "毛细管间肾硬化"
+  },
+  "zh::滴虫性阴道炎": {
+    "code": "http://id.who.int/icd/entity/1134622991",
+    "label": "阴道毛滴虫引起的阴道炎"
+  },
+  "zh::性传染病": {
+    "code": "http://id.who.int/icd/entity/1062820800",
+    "label": "接触或暴露于传染病"
+  },
+  "zh::戒断症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::雷诺式症": {
+    "code": null,
+    "label": null
+  },
+  "zh::重度强迫症": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮脂腺囊肿": {
+    "code": "http://id.who.int/icd/entity/2085770731",
+    "label": "多发性脂囊瘤"
+  },
+  "zh::人类乳突病毒": {
+    "code": "http://id.who.int/icd/entity/1442394311",
+    "label": "人乳头瘤病毒引起的性传播感染"
+  },
+  "zh::轻微血精症": {
+    "code": null,
+    "label": null
+  },
+  "zh::眼球蜂窝性组织炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::眼窝脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::水肾症": {
+    "code": null,
+    "label": null
+  },
+  "zh::拉伤": {
+    "code": "http://id.who.int/icd/entity/254923627",
+    "label": "肌肉拉伤或扭伤"
+  },
+  "zh::慢性发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::肛门瘘管": {
+    "code": "http://id.who.int/icd/entity/430968972",
+    "label": "肛门直肠区蜂窝组织炎伴或不伴瘘管"
+  },
+  "zh::极轻度二尖瓣闭锁不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::极轻度三尖瓣闭锁不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::人类免疫不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻度地中海型贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::先兆性流产": {
+    "code": "http://id.who.int/icd/entity/1929927516",
+    "label": "先兆流产"
+  },
+  "zh::肠胃道疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::秃头": {
+    "code": null,
+    "label": null
+  },
+  "zh::椎间盘": {
+    "code": "http://id.who.int/icd/entity/1185858858",
+    "label": "椎间盘"
+  },
+  "zh::洗肾": {
+    "code": null,
+    "label": null
+  },
+  "zh::干性齿槽炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::闪光": {
+    "code": "http://id.who.int/icd/entity/1655525483",
+    "label": "闪光感"
+  },
+  "zh::睡眠门诊": {
+    "code": null,
+    "label": null
+  },
+  "zh::坏死性肌膜炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::弥漫型大Ｂ细胞淋巴癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::缺氧性心脏病": {
+    "code": null,
+    "label": null
+  },
+  "zh::败血性休克": {
+    "code": "http://id.who.int/icd/entity/1920574661",
+    "label": "布鲁氏菌败血症伴有脓毒性休克"
+  },
+  "zh::小头症": {
+    "code": null,
+    "label": null
+  },
+  "zh::永久性神经损伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆胰管疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::癌因性疲惫症": {
+    "code": null,
+    "label": null
+  },
+  "zh::癌因性疲惫": {
+    "code": null,
+    "label": null
+  },
+  "zh::寻麻": {
+    "code": null,
+    "label": null
+  },
+  "zh::淋巴结节钙化": {
+    "code": null,
+    "label": null
+  },
+  "zh::胃结石": {
+    "code": null,
+    "label": null
+  },
+  "zh::应力性尿失禁": {
+    "code": null,
+    "label": null
+  },
+  "zh::瓣膜闭锁不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::先天扩张心心肌病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::忧郁病症": {
+    "code": null,
+    "label": null
+  },
+  "zh::自闭症": {
+    "code": "http://id.who.int/icd/entity/437815624",
+    "label": "孤独症谱系障碍"
+  },
+  "zh::新陈代谢疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::骨盆腔发炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性发炎疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠病毒７１型＋肺炎炼球菌": {
+    "code": null,
+    "label": null
+  },
+  "zh::痲疯": {
+    "code": null,
+    "label": null
+  },
+  "zh::躁郁症": {
+    "code": "http://id.who.int/icd/entity/1456478153",
+    "label": "双相I型障碍"
+  },
+  "zh::大脑疾病": {
+    "code": "http://id.who.int/icd/entity/775157239",
+    "label": "大脑退行性疾病所致单次痫性发作"
+  },
+  "zh::冠状动脉硬化": {
+    "code": "http://id.who.int/icd/entity/1280712786",
+    "label": "冠状动脉粥样硬化"
+  },
+  "zh::局部蜂窝性组织炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::肢体障碍": {
+    "code": "http://id.who.int/icd/entity/456754783",
+    "label": "肢体肌张力障碍"
+  },
+  "zh::纤维肌痛综合症": {
+    "code": "http://id.who.int/icd/entity/236601102",
+    "label": "纤维肌痛综合征"
+  },
+  "zh::非关节性风湿病性": {
+    "code": null,
+    "label": null
+  },
+  "zh::软组织疼痛性疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫壁肌瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::胸椎脊柱侧弯": {
+    "code": null,
+    "label": null
+  },
+  "zh::肛门癌": {
+    "code": "http://id.who.int/icd/entity/655574575",
+    "label": "肛门或肛管恶性肿瘤"
+  },
+  "zh::子宫内膜异位": {
+    "code": "http://id.who.int/icd/entity/1210621332",
+    "label": "子宫的子宫内膜异位"
+  },
+  "zh::子宫肌腺症": {
+    "code": null,
+    "label": null
+  },
+  "zh::人参滥用症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::出血性蜘蛛膜囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::隐翅虫皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::代谢机能": {
+    "code": null,
+    "label": null
+  },
+  "zh::乳房囊肿": {
+    "code": "http://id.who.int/icd/entity/2106848290",
+    "label": "乳房皮肤囊肿"
+  },
+  "zh::疱疮": {
+    "code": null,
+    "label": null
+  },
+  "zh::贝氏症肠胃道穿孔": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性肠病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆石": {
+    "code": "http://id.who.int/icd/entity/1268183934",
+    "label": "胆石症"
+  },
+  "zh::圆形秃": {
+    "code": null,
+    "label": null
+  },
+  "zh::周边颜面神经麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::软组织发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::神经内分泌肿瘤": {
+    "code": "http://id.who.int/icd/entity/1895557546",
+    "label": "未特指部位的神经内分泌肿瘤"
+  },
+  "zh::胰脏腺癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾病症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::脓": {
+    "code": "http://id.who.int/icd/entity/809412333",
+    "label": "肾积脓"
+  },
+  "zh::泌尿道发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::镰刀型贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::细菌性阴道炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::酵母阴道炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::适应障碍": {
+    "code": "http://id.who.int/icd/entity/264310751",
+    "label": "适应障碍"
+  },
+  "zh::化学性肝炎": {
+    "code": "http://id.who.int/icd/entity/1067475238",
+    "label": "急性化学性肝炎"
+  },
+  "zh::多发性晚期ＨＣＣ": {
+    "code": null,
+    "label": null
+  },
+  "zh::寻麻疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::癌变": {
+    "code": "http://id.who.int/icd/entity/1820010927",
+    "label": "息肉癌变"
+  },
+  "zh::肝细胞性黄疸": {
+    "code": "http://id.who.int/icd/entity/27706581",
+    "label": "肝细胞损伤后新生儿高胆红素血症"
+  },
+  "zh::脑病变": {
+    "code": "http://id.who.int/icd/entity/204947892",
+    "label": "脑病变，不可归类于他处者"
+  },
+  "zh::季节性情绪失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::食道静脉曲张": {
+    "code": "http://id.who.int/icd/entity/933570887",
+    "label": "食管静脉曲张"
+  },
+  "zh::肠胃道溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::复发型疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::鼻过敏": {
+    "code": null,
+    "label": null
+  },
+  "zh::贝氏症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::地中海贫血症": {
+    "code": null,
+    "label": null
+  },
+  "zh::遗精病": {
+    "code": "http://id.who.int/icd/entity/1725754094",
+    "label": "精液从尿道被动排出"
+  },
+  "zh::脱肠": {
+    "code": null,
+    "label": null
+  },
+  "zh::坠肠": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾脏": {
+    "code": "http://id.who.int/icd/entity/720032908",
+    "label": "肾脏"
+  },
+  "zh::肾": {
+    "code": "http://id.who.int/icd/entity/720032908",
+    "label": "肾脏"
+  },
+  "zh::病态型男性女乳症": {
+    "code": null,
+    "label": null
+  },
+  "zh::创伤后压力症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::副甲状腺分泌异常": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺分泌异常": {
+    "code": null,
+    "label": null
+  },
+  "zh::莱姆症": {
+    "code": null,
+    "label": null
+  },
+  "zh::主动脉剥离": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠道感染症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠道阻塞": {
+    "code": null,
+    "label": null
+  },
+  "zh::遗传代谢性肝炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::１２指肠溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::多囊性卵巢综合症": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺机能低下症": {
+    "code": null,
+    "label": null
+  },
+  "zh::自体免疫性肌炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::潜在病症": {
+    "code": null,
+    "label": null
+  },
+  "zh::严重中暑": {
+    "code": null,
+    "label": null
+  },
+  "zh::跌打损伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::重度地中海贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑血管瘤": {
+    "code": "http://id.who.int/icd/entity/37136689",
+    "label": "脑血管瘤"
+  },
+  "zh::鳞状上皮癌": {
+    "code": "http://id.who.int/icd/entity/1474982646",
+    "label": "阴茎黏膜皮肤上皮鳞状细胞癌"
+  },
+  "zh::头颈部上皮细胞癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::无症状心肌缺血": {
+    "code": "http://id.who.int/icd/entity/1069069254",
+    "label": "无症状心肌缺血"
+  },
+  "zh::直肠阴道廔管": {
+    "code": null,
+    "label": null
+  },
+  "zh::放射线肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性冠状动脉心脏病": {
+    "code": null,
+    "label": null
+  },
+  "zh::糖尿病性皮肤溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::小腿慢性溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺补充剂": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝囊肿": {
+    "code": "http://id.who.int/icd/entity/1025169562",
+    "label": "肝囊肿"
+  },
+  "zh::大肠炎": {
+    "code": "http://id.who.int/icd/entity/1399661582",
+    "label": "大肠炎性息肉"
+  },
+  "zh::子宫良性肿瘤": {
+    "code": "http://id.who.int/icd/entity/1591953075",
+    "label": "子宫良性肿瘤"
+  },
+  "zh::乳糜泻": {
+    "code": "http://id.who.int/icd/entity/2005943638",
+    "label": "乳糜泻"
+  },
+  "zh::缺铁性贫血症": {
+    "code": null,
+    "label": null
+  },
+  "zh::葛瑞夫兹氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh::细菌性中耳炎": {
+    "code": "http://id.who.int/icd/entity/271609703",
+    "label": "分类于他处的细菌性疾病引起的中耳炎"
+  },
+  "zh::慢性湿疹": {
+    "code": "http://id.who.int/icd/entity/1341744417",
+    "label": "儿童特应性湿疹，慢性苔藓样"
+  },
+  "zh::肺炎免疫系统失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::本态性高血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::更年期障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::骨盆腔发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性疼痛关节炎": {
+    "code": "http://id.who.int/icd/entity/1613844891",
+    "label": "骨关节炎相关性慢性继发性肌肉骨骼疼痛"
+  },
+  "zh::肌纤维疼痛症": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性肾病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::小细胞癌": {
+    "code": "http://id.who.int/icd/entity/696732190",
+    "label": "小细胞癌，NOS"
+  },
+  "zh::非小细胞癌": {
+    "code": "http://id.who.int/icd/entity/2003942264",
+    "label": "非小细胞癌"
+  },
+  "zh::鳞状细胞癌": {
+    "code": "http://id.who.int/icd/entity/1545112705",
+    "label": "鳞状细胞癌，NOS"
+  },
+  "zh::大细胞癌": {
+    "code": "http://id.who.int/icd/entity/1920164124",
+    "label": "大细胞癌，NOS"
+  },
+  "zh::烧烫": {
+    "code": null,
+    "label": null
+  },
+  "zh::吸入性灼伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆（道）结石": {
+    "code": null,
+    "label": null
+  },
+  "zh::免疫发炎性肠病": {
+    "code": null,
+    "label": null
+  },
+  "zh::马蹄足": {
+    "code": "http://id.who.int/icd/entity/639491801",
+    "label": "先天性足畸形"
+  },
+  "zh::粥状硬化": {
+    "code": null,
+    "label": null
+  },
+  "zh::常压性水脑症": {
+    "code": null,
+    "label": null
+  },
+  "zh::痴呆症": {
+    "code": "http://id.who.int/icd/entity/1173624218",
+    "label": "人类免疫缺陷病毒所致痴呆"
+  },
+  "zh::高危险性传染病": {
+    "code": null,
+    "label": null
+  },
+  "zh::过重": {
+    "code": "http://id.who.int/icd/entity/1576552245",
+    "label": "鼻音过重"
+  },
+  "zh::子宫颈早期癌变": {
+    "code": null,
+    "label": null
+  },
+  "zh::梅尼尔氏病": {
+    "code": null,
+    "label": null
+  },
+  "zh::痒疹": {
+    "code": "http://id.who.int/icd/entity/268810206",
+    "label": "痒疹"
+  },
+  "zh::肺肿瘤": {
+    "code": "http://id.who.int/icd/entity/29356421",
+    "label": "肺部肿瘤"
+  },
+  "zh::狭心症": {
+    "code": "http://id.who.int/icd/entity/543536295",
+    "label": "狭心症"
+  },
+  "zh::肝内胆管癌": {
+    "code": "http://id.who.int/icd/entity/1938186540",
+    "label": "肝内胆管恶性肿瘤"
+  },
+  "zh::牙结石": {
+    "code": "http://id.who.int/icd/entity/722486807",
+    "label": "牙石"
+  },
+  "zh::风湿疾病": {
+    "code": "http://id.who.int/icd/entity/730684274",
+    "label": "风湿病所致痴呆"
+  },
+  "zh::头颈癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::泌尿道结石": {
+    "code": "http://id.who.int/icd/entity/295907514",
+    "label": "上尿路结石"
+  },
+  "zh::原发性副甲状腺亢进": {
+    "code": null,
+    "label": null
+  },
+  "zh::开了胃食道逆流": {
+    "code": null,
+    "label": null
+  },
+  "zh::小脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::维他命Ｃ缺乏症": {
+    "code": null,
+    "label": null
+  },
+  "zh::忧虑症": {
+    "code": null,
+    "label": null
+  },
+  "zh::残障后遗症": {
+    "code": null,
+    "label": null
+  },
+  "zh::淋巴肿": {
+    "code": "http://id.who.int/icd/entity/2097354238",
+    "label": "恶性浸润性淋巴肿"
+  },
+  "zh::注意力不集中过动症": {
+    "code": null,
+    "label": null
+  },
+  "zh::色素性紫癜性皮肤病": {
+    "code": "http://id.who.int/icd/entity/1163684025",
+    "label": "沙姆伯格毛细血管炎"
+  },
+  "zh::浆膜下肌瘤": {
+    "code": "http://id.who.int/icd/entity/2140622580",
+    "label": "子宫浆膜下平滑肌瘤"
+  },
+  "zh::雷诺氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh::听障": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢肾脏病": {
+    "code": null,
+    "label": null
+  },
+  "zh::综合感冒药": {
+    "code": null,
+    "label": null
+  },
+  "zh::２尖办膜脱垂": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性坏死溃疡性牙龈炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::药物性肝炎": {
+    "code": "http://id.who.int/icd/entity/1026863306",
+    "label": "药物性或中毒性肝病伴肉芽肿性肝炎"
+  },
+  "zh::脑膜瘤": {
+    "code": "http://id.who.int/icd/entity/1566460631",
+    "label": "分泌型脑膜瘤"
+  },
+  "zh::精索静脉曲张": {
+    "code": "http://id.who.int/icd/entity/315302008",
+    "label": "阴囊静脉曲张"
+  },
+  "zh::副交感神经失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::肛门脓疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::过胖": {
+    "code": null,
+    "label": null
+  },
+  "zh::α型海洋性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::热痉挛": {
+    "code": "http://id.who.int/icd/entity/678176658",
+    "label": "中暑痉挛"
+  },
+  "zh::动脉剥离": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃道": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝脏": {
+    "code": "http://id.who.int/icd/entity/328366540",
+    "label": "肝脏"
+  },
+  "zh::电脑视觉症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性忧郁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::摔伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::纤维腺瘤": {
+    "code": "http://id.who.int/icd/entity/143326763",
+    "label": "乳腺纤维腺瘤"
+  },
+  "zh::轻度三尖瓣闭锁不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::压力性溃疡": {
+    "code": "http://id.who.int/icd/entity/455330172",
+    "label": "压力性溃疡"
+  },
+  "zh::过敏症": {
+    "code": "http://id.who.int/icd/entity/1973471386",
+    "label": "未特指性质的超敏反应"
+  },
+  "zh::鼠蹊疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::恶性疾病": {
+    "code": "http://id.who.int/icd/entity/1594217552",
+    "label": "不明或未特指原发部位的恶性肿瘤"
+  },
+  "zh::疱疹性咽峡炎": {
+    "code": "http://id.who.int/icd/entity/61181798",
+    "label": "肠病毒性疱疹性咽炎"
+  },
+  "zh::肢体麻痺症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性出血性结膜炎": {
+    "code": "http://id.who.int/icd/entity/1356011211",
+    "label": "急性流行性出血性结膜炎"
+  },
+  "zh::丘疹型痤疮": {
+    "code": "http://id.who.int/icd/entity/611951866",
+    "label": "丘疹脓疱型痤疮"
+  },
+  "zh::脓疱型痤疮": {
+    "code": "http://id.who.int/icd/entity/611951866",
+    "label": "丘疹脓疱型痤疮"
+  },
+  "zh::结节型痤疮": {
+    "code": "http://id.who.int/icd/entity/1244484505",
+    "label": "结节性痤疮"
+  },
+  "zh::囊肿型痤疮": {
+    "code": "http://id.who.int/icd/entity/1244484505",
+    "label": "结节性痤疮"
+  },
+  "zh::甲状腺结节": {
+    "code": "http://id.who.int/icd/entity/1405941300",
+    "label": "非毒性单个甲状腺结节"
+  },
+  "zh::多颗肝癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::多发性肿瘤": {
+    "code": "http://id.who.int/icd/entity/1844086508",
+    "label": "生物学行为未知的肿瘤，除外淋巴、造血、中枢神经系统或相关组织"
+  },
+  "zh::骨髓增生性肿瘤": {
+    "code": "http://id.who.int/icd/entity/1724907221",
+    "label": "骨髓增生性肿瘤，不能分类"
+  },
+  "zh::睡前网游症": {
+    "code": null,
+    "label": null
+  },
+  "zh::长寿癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::珍珠状丘疹": {
+    "code": "http://id.who.int/icd/entity/1336603848",
+    "label": "阴茎珍珠状丘疹"
+  },
+  "zh::二尖瓣膜脱垂": {
+    "code": null,
+    "label": null
+  },
+  "zh::异味性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::股疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::病窦症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::经前症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::代谢障碍": {
+    "code": "http://id.who.int/icd/entity/393047701",
+    "label": "其他代谢紊乱"
+  },
+  "zh::胆固醇性结石": {
+    "code": "http://id.who.int/icd/entity/1986853646",
+    "label": "胆囊结石不伴胆囊炎或胆管炎"
+  },
+  "zh::良性骨化肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::咀嚼功能障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::认知功能缺损": {
+    "code": null,
+    "label": null
+  },
+  "zh::阿兹海默": {
+    "code": null,
+    "label": null
+  },
+  "zh::神经病变": {
+    "code": "http://id.who.int/icd/entity/58868923",
+    "label": "多神经病变"
+  },
+  "zh::三阴性乳癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::智能发展障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::早发型白内障": {
+    "code": null,
+    "label": null
+  },
+  "zh::代谢酸中毒": {
+    "code": "http://id.who.int/icd/entity/1506336899",
+    "label": "酸中毒"
+  },
+  "zh::颜面神经麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::抗病毒药物": {
+    "code": "http://id.who.int/icd/entity/41082267",
+    "label": "治疗人类免疫缺陷病毒感染的抗病毒药物"
+  },
+  "zh::妇科癌症": {
+    "code": null,
+    "label": null
+  },
+  "zh::自发性气胸": {
+    "code": "http://id.who.int/icd/entity/2003193382",
+    "label": "其他自发性气胸"
+  },
+  "zh::乙烯胆碱荨麻疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::眩晕症": {
+    "code": null,
+    "label": null
+  },
+  "zh::思觉失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲床分离": {
+    "code": null,
+    "label": null
+  },
+  "zh::黑蒙症": {
+    "code": null,
+    "label": null
+  },
+  "zh::干性黄斑部病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::关节歪斜": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性肠胃疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::破骨热": {
+    "code": null,
+    "label": null
+  },
+  "zh::断骨热": {
+    "code": null,
+    "label": null
+  },
+  "zh::粥样硬化": {
+    "code": "http://id.who.int/icd/entity/109367356",
+    "label": "动脉粥样硬化性慢性动脉闭塞性疾病"
+  },
+  "zh::神经胶质瘤": {
+    "code": "http://id.who.int/icd/entity/1079699653",
+    "label": "神经胶质瘤"
+  },
+  "zh::潜在疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::准大肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::短肠症": {
+    "code": null,
+    "label": null
+  },
+  "zh::软骨症": {
+    "code": "http://id.who.int/icd/entity/2041797033",
+    "label": "软骨钙化症"
+  },
+  "zh::高血钙症": {
+    "code": null,
+    "label": null
+  },
+  "zh::腹腔积水": {
+    "code": null,
+    "label": null
+  },
+  "zh::内分泌性高血压": {
+    "code": "http://id.who.int/icd/entity/148182526",
+    "label": "继发性高血压伴内分泌失调"
+  },
+  "zh::库欣症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::中度恶性淋巴癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::低度恶性淋巴癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::多囊卵巢综合症": {
+    "code": "http://id.who.int/icd/entity/1213633323",
+    "label": "多囊卵巢综合征"
+  },
+  "zh::库欣氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh::热中风": {
+    "code": null,
+    "label": null
+  },
+  "zh::囊肿型痘痘": {
+    "code": null,
+    "label": null
+  },
+  "zh::台北荣总": {
+    "code": null,
+    "label": null
+  },
+  "zh::重症海洋性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::经血过多症": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫内膜异位瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::尿道外括约肌与膀胱逼尿肌共轭失调疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::良性脑瘤": {
+    "code": "http://id.who.int/icd/entity/87147373",
+    "label": "大脑良性肿瘤"
+  },
+  "zh::甲状腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::二氧化碳气腹术腔": {
+    "code": null,
+    "label": null
+  },
+  "zh::二氧化碳气体栓塞症": {
+    "code": null,
+    "label": null
+  },
+  "zh::老人痴呆症": {
+    "code": null,
+    "label": null
+  },
+  "zh::髌骨软骨软化症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠阻塞": {
+    "code": "http://id.who.int/icd/entity/1393205731",
+    "label": "小肠梗阻"
+  },
+  "zh::非典型情感障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::化脓性大汗腺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::潜毛症": {
+    "code": null,
+    "label": null
+  },
+  "zh::热液烫伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::化学性灼伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::火焰灼伤": {
+    "code": null,
+    "label": null
+  },
+  "zh::颈动脉剥离": {
+    "code": null,
+    "label": null
+  },
+  "zh::球性红血球增多症": {
+    "code": null,
+    "label": null
+  },
+  "zh::史他汀类": {
+    "code": null,
+    "label": null
+  },
+  "zh::性功能失调": {
+    "code": null,
+    "label": null
+  },
+  "zh::后天免疫缺乏": {
+    "code": null,
+    "label": null
+  },
+  "zh::糖尿病性视网膜病变": {
+    "code": "http://id.who.int/icd/entity/348602398",
+    "label": "增生性糖尿病性视网膜病变"
+  },
+  "zh::网球肘": {
+    "code": "http://id.who.int/icd/entity/1254324785",
+    "label": "肱骨外上髁炎"
+  },
+  "zh::妇科疾病": {
+    "code": "http://id.who.int/icd/entity/585064432",
+    "label": "女性生殖系统疾病"
+  },
+  "zh::心脏血管疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::静脉栓塞": {
+    "code": "http://id.who.int/icd/entity/845231296",
+    "label": "完全性肾静脉缺血或肾梗死"
+  },
+  "zh::急性胆囊炎": {
+    "code": "http://id.who.int/icd/entity/2071113448",
+    "label": "急性胆囊炎"
+  },
+  "zh::突发性高血压": {
+    "code": null,
+    "label": null
+  },
+  "zh::疱": {
+    "code": "http://id.who.int/icd/entity/1478062941",
+    "label": "手部水泡性皮炎"
+  },
+  "zh::脑部肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::学习障碍": {
+    "code": "http://id.who.int/icd/entity/2099676649",
+    "label": "发育性学习障碍"
+  },
+  "zh::阿兹海默型": {
+    "code": null,
+    "label": null
+  },
+  "zh::路易氏体型": {
+    "code": "http://id.who.int/icd/entity/1777436789",
+    "label": "路易体病所致痴呆"
+  },
+  "zh::额颞叶型": {
+    "code": "http://id.who.int/icd/entity/2099230583",
+    "label": "额颞叶变性"
+  },
+  "zh::呼吸道黏膜肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::副甲状腺疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::药物性鼻炎": {
+    "code": "http://id.who.int/icd/entity/1641038220",
+    "label": "药物性鼻炎"
+  },
+  "zh::心脏麻痺": {
+    "code": null,
+    "label": null
+  },
+  "zh::静脉功能不全": {
+    "code": "http://id.who.int/icd/entity/2057222152",
+    "label": "慢性下肢外周静脉功能不全"
+  },
+  "zh::急性损伤": {
+    "code": "http://id.who.int/icd/entity/359051131",
+    "label": "某些肺损伤"
+  },
+  "zh::肛门搔痒症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肛门息肉": {
+    "code": "http://id.who.int/icd/entity/2038426249",
+    "label": "肛门息肉"
+  },
+  "zh::肛门肿瘤": {
+    "code": "http://id.who.int/icd/entity/526297961",
+    "label": "肛门肿瘤"
+  },
+  "zh::小产": {
+    "code": "http://id.who.int/icd/entity/389125444",
+    "label": "产肠毒素性大肠埃希菌感染引起的小肠炎"
+  },
+  "zh::肾丝球肾炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::横隔膜肌肉退化": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠沾黏": {
+    "code": null,
+    "label": null
+  },
+  "zh::语言发展迟缓": {
+    "code": null,
+    "label": null
+  },
+  "zh::人际关系与互动障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh::低功能自闭症": {
+    "code": null,
+    "label": null
+  },
+  "zh::高功能自闭症": {
+    "code": null,
+    "label": null
+  },
+  "zh::内耳疾患": {
+    "code": null,
+    "label": null
+  },
+  "zh::排泄障碍": {
+    "code": "http://id.who.int/icd/entity/1884115764",
+    "label": "排泄障碍"
+  },
+  "zh::黏液囊肿": {
+    "code": "http://id.who.int/icd/entity/1510798426",
+    "label": "指/趾黏液样假性囊肿"
+  },
+  "zh::尘肺病": {
+    "code": "http://id.who.int/icd/entity/611962875",
+    "label": "尘肺病"
+  },
+  "zh::恶性肺间质瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::脐疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::切口性疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::横膈裂孔疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::心衰竭肺水肿": {
+    "code": "http://id.who.int/icd/entity/437702716",
+    "label": "左心室衰竭"
+  },
+  "zh::弱视": {
+    "code": "http://id.who.int/icd/entity/450943820",
+    "label": "弱视，类型未特指"
+  },
+  "zh::搔痒症": {
+    "code": null,
+    "label": null
+  },
+  "zh::遗传性地中海性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::新陈代谢": {
+    "code": null,
+    "label": null
+  },
+  "zh::心血管相关疾病": {
+    "code": "http://id.who.int/icd/entity/426429380",
+    "label": "循环系统疾病"
+  },
+  "zh::简讯颈": {
+    "code": null,
+    "label": null
+  },
+  "zh::阿尔茨海默病": {
+    "code": "http://id.who.int/icd/entity/1611724421",
+    "label": "阿尔茨海默病"
+  },
+  "zh::双相情感障碍": {
+    "code": "http://id.who.int/icd/entity/15761418",
+    "label": "双相I型障碍，目前为完全缓解"
+  },
+  "zh::突变": {
+    "code": null,
+    "label": null
+  },
+  "zh::细菌性食物中毒": {
+    "code": "http://id.who.int/icd/entity/1834648119",
+    "label": "细菌性食物中毒"
+  },
+  "zh::肺钙化结节": {
+    "code": null,
+    "label": null
+  },
+  "zh::器质性肺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::肋膜积水": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾脏囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::α重型海洋性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh::坏血症": {
+    "code": null,
+    "label": null
+  },
+  "zh::巨结肠症": {
+    "code": null,
+    "label": null
+  },
+  "zh::痰浊症候": {
+    "code": null,
+    "label": null
+  },
+  "zh::胃食道静脉瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::基质瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::脂肪肝病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::寻痲疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::梅尼尔式症": {
+    "code": null,
+    "label": null
+  },
+  "zh::突发性耳聋": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮癣病": {
+    "code": "http://id.who.int/icd/entity/1802307036",
+    "label": "皮肤癣菌病"
+  },
+  "zh::诊断裂孔疝气": {
+    "code": null,
+    "label": null
+  },
+  "zh::髋部骨折": {
+    "code": "http://id.who.int/icd/entity/398412176",
+    "label": "股骨颈骨折"
+  },
+  "zh::代谢碱中毒": {
+    "code": "http://id.who.int/icd/entity/1001029375",
+    "label": "代谢性碱中毒"
+  },
+  "zh::纤维肌痛症": {
+    "code": null,
+    "label": null
+  },
+  "zh::下段输尿管结石": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝细胞肝癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::先天性结缔组织疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::逆时针心轴转位": {
+    "code": null,
+    "label": null
+  },
+  "zh::自体免疫性黄体素皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::类风湿免疫疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::神经纤维瘤第二型": {
+    "code": null,
+    "label": null
+  },
+  "zh::蛛网膜囊肿": {
+    "code": "http://id.who.int/icd/entity/943887241",
+    "label": "颅内蛛网膜囊肿"
+  },
+  "zh::市售综合感冒药": {
+    "code": null,
+    "label": null
+  },
+  "zh::鼻炎胶囊": {
+    "code": null,
+    "label": null
+  },
+  "zh::嵌顿性包皮": {
+    "code": null,
+    "label": null
+  },
+  "zh::缺氧病变": {
+    "code": null,
+    "label": null
+  },
+  "zh::压力性胃溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::动脉阻塞": {
+    "code": null,
+    "label": null
+  },
+  "zh::细钩端螺旋体病": {
+    "code": null,
+    "label": null
+  },
+  "zh::恶性癌症转移瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性伤口": {
+    "code": null,
+    "label": null
+  },
+  "zh::动脉硬化症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肌张力异常": {
+    "code": "http://id.who.int/icd/entity/560509568",
+    "label": "肌张力或反射异常"
+  },
+  "zh::高位直肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::紫质症": {
+    "code": null,
+    "label": null
+  },
+  "zh::异常": {
+    "code": null,
+    "label": null
+  },
+  "zh::尿道发炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::高铝血症": {
+    "code": null,
+    "label": null
+  },
+  "zh::高镁症": {
+    "code": null,
+    "label": null
+  },
+  "zh::关节过动症": {
+    "code": null,
+    "label": null
+  },
+  "zh::干燥性皮肤炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::原发性高醛固酮血症": {
+    "code": null,
+    "label": null
+  },
+  "zh::胃恐溃疡": {
+    "code": null,
+    "label": null
+  },
+  "zh::主动脉疾病": {
+    "code": "http://id.who.int/icd/entity/2145390259",
+    "label": "主动脉疾病，不可归类在他处者"
+  },
+  "zh::妈妈手": {
+    "code": null,
+    "label": null
+  },
+  "zh::大肠憩室炎": {
+    "code": "http://id.who.int/icd/entity/1824134974",
+    "label": "大肠憩室炎"
+  },
+  "zh::荐骨前囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::二间办脱垂": {
+    "code": null,
+    "label": null
+  },
+  "zh::淋巴系统": {
+    "code": "http://id.who.int/icd/entity/194670149",
+    "label": "淋巴系统"
+  },
+  "zh::低位胎盘": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝胆性疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::转移性肝癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::活动性肝疾": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性硬脑膜下出血": {
+    "code": null,
+    "label": null
+  },
+  "zh::火烧心": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胃體胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::慢性萎縮性胃炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胃竇炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::阻塞性肝膽疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh::阻塞性肝胆疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::膽道結石": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆道结石": {
+    "code": "http://id.who.int/icd/entity/732034414",
+    "label": "未特指的胆囊结石症，不伴胆囊炎或胆管炎"
+  },
+  "zh-TW::肝膽腫瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝胆肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::肝臟機能障礙": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝脏机能障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::周圍性面癱": {
+    "code": null,
+    "label": null
+  },
+  "zh::周围性面瘫": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::前列腺肥大": {
+    "code": "http://id.who.int/icd/entity/978159279",
+    "label": "前列腺增生"
+  },
+  "zh-TW::德國麻疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::德国麻疹": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腸胃病": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腰椎退化性關節病變": {
+    "code": null,
+    "label": null
+  },
+  "zh::腰椎退化性关节病变": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::非酒精性脂肪肝疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::遺傳病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::猝睡症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::肝實質病變": {
+    "code": null,
+    "label": null
+  },
+  "zh::肝实质病变": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::膽瘜肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆瘜肉": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::軟組織瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::软组织瘤": {
+    "code": "http://id.who.int/icd/entity/1802722377",
+    "label": "肉瘤，NOS"
+  },
+  "zh-TW::膽囊腺肌增生症": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆囊腺肌增生症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::增生性疾病": {
+    "code": "http://id.who.int/icd/entity/1488076383",
+    "label": "免疫增生性疾病"
+  },
+  "zh-TW::梗塞": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::右心肥大": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::慢性胃炎": {
+    "code": "http://id.who.int/icd/entity/865968881",
+    "label": "慢性胃炎，不可归类于他处者"
+  },
+  "zh-TW::慢性鼻炎": {
+    "code": "http://id.who.int/icd/entity/1346915097",
+    "label": "慢性鼻炎"
+  },
+  "zh-TW::胃痙攣": {
+    "code": null,
+    "label": null
+  },
+  "zh::胃痉挛": {
+    "code": "http://id.who.int/icd/entity/776748300",
+    "label": "胃痉挛"
+  },
+  "zh-TW::急慢性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::急慢性肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::慢性盂腎炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性盂肾炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::膀胱尿道炎": {
+    "code": "http://id.who.int/icd/entity/1573460761",
+    "label": "膀胱尿道炎"
+  },
+  "zh-TW::腦血管病變": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::小球性性貧血": {
+    "code": null,
+    "label": null
+  },
+  "zh::小球性性贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急性中毒": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::尿酸尿路結石": {
+    "code": null,
+    "label": null
+  },
+  "zh::尿酸尿路结石": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::含鈣尿路結石": {
+    "code": null,
+    "label": null
+  },
+  "zh::含钙尿路结石": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::猝死": {
+    "code": "http://id.who.int/icd/entity/1443484410",
+    "label": "瞬间死亡"
+  },
+  "zh-TW::高同半胱胺酸血症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腿部深層靜脈血栓": {
+    "code": null,
+    "label": null
+  },
+  "zh::腿部深层静脉血栓": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::風疹": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::癮疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::瘾疹": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::甲狀腺功能異常": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺功能异常": {
+    "code": "http://id.who.int/icd/entity/1178783268",
+    "label": "某些特指的甲状腺疾患"
+  },
+  "zh-TW::心肌病症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::Ａ流": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::熱症": {
+    "code": null,
+    "label": null
+  },
+  "zh::热症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::軟下疳": {
+    "code": null,
+    "label": null
+  },
+  "zh::软下疳": {
+    "code": "http://id.who.int/icd/entity/1357024926",
+    "label": "软下疳"
+  },
+  "zh-TW::１．Ｂ型肝炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::血管脂肪化": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::姿位性低血壓": {
+    "code": null,
+    "label": null
+  },
+  "zh::姿位性低血压": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::膽息肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆息肉": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急性細菌性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性细菌性肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急性病毒性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性病毒性肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胃腸疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急性": {
+    "code": "http://id.who.int/icd/entity/786106375",
+    "label": "急性"
+  },
+  "zh-TW::慢性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::慢性肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::細菌性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::沙門氏菌腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::沙门氏菌肠炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::病毒性腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::輪狀病毒腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::中年發福": {
+    "code": null,
+    "label": null
+  },
+  "zh::中年发福": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::慢性腹瀉": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腸炎後症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠炎后症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::血栓性中風": {
+    "code": null,
+    "label": null
+  },
+  "zh::血栓性中风": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腦溢血": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑溢血": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::家族性瘜肉症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::遺傳非多發肉大腸直腸癌": {
+    "code": null,
+    "label": null
+  },
+  "zh::遗传非多发肉大肠直肠癌": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::前列腺炎": {
+    "code": "http://id.who.int/icd/entity/1594247995",
+    "label": "前列腺炎性或其他疾病"
+  },
+  "zh-TW::攝護腺肥大症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺肥大症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::永久性陽痿": {
+    "code": null,
+    "label": null
+  },
+  "zh::永久性阳痿": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::妥瑞氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::ＢＣ型肝炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::乳房腫瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::乳房肿瘤": {
+    "code": "http://id.who.int/icd/entity/1623614569",
+    "label": "乳房生物学行为未知的肿瘤"
+  },
+  "zh-TW::早發性失智症": {
+    "code": null,
+    "label": null
+  },
+  "zh::早发性失智症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胰臟腫瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::胰脏肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腦震盪": {
+    "code": null,
+    "label": null
+  },
+  "zh::脑震荡": {
+    "code": "http://id.who.int/icd/entity/1560768871",
+    "label": "脑震荡"
+  },
+  "zh-TW::過度換氣症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::过度换气症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::高三酸甘油酯": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::手腕橈側肌腱炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::手腕桡侧肌腱炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::過度肥胖": {
+    "code": null,
+    "label": null
+  },
+  "zh::过度肥胖": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::高三酸甘油脂血症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::新陳代謝症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::新陈代谢症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胸部囊腫": {
+    "code": null,
+    "label": null
+  },
+  "zh::胸部囊肿": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腱鞘炎": {
+    "code": "http://id.who.int/icd/entity/163006370",
+    "label": "腱鞘炎"
+  },
+  "zh-TW::腕髓道症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::急性胰臟病變": {
+    "code": null,
+    "label": null
+  },
+  "zh::急性胰脏病变": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::肝膽疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::生育障礙": {
+    "code": null,
+    "label": null
+  },
+  "zh::生育障碍": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::致命性骨折": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::重度失能": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::末梢神經病變": {
+    "code": null,
+    "label": null
+  },
+  "zh::末梢神经病变": {
+    "code": "http://id.who.int/icd/entity/58868923",
+    "label": "多神经病变"
+  },
+  "zh-TW::關結炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::关结炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::抗生素": {
+    "code": "http://id.who.int/icd/entity/1085877652",
+    "label": "肠道用抗生素"
+  },
+  "zh-TW::萎縮性陰道炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::萎缩性阴道炎": {
+    "code": "http://id.who.int/icd/entity/1876048433",
+    "label": "绝经后萎缩性阴道炎"
+  },
+  "zh-TW::心肌肥大": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::心包炎": {
+    "code": "http://id.who.int/icd/entity/1296696944",
+    "label": "心包炎"
+  },
+  "zh-TW::卵巢上皮細胞腫瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::卵巢上皮细胞肿瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::子宮內膜腺瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::子宫内膜腺瘤": {
+    "code": "http://id.who.int/icd/entity/2014988710",
+    "label": "子宫内膜样腺瘤，NOS"
+  },
+  "zh-TW::腸胃道癌症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠胃道癌症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::良性畸胎瘤": {
+    "code": "http://id.who.int/icd/entity/872358015",
+    "label": "畸胎瘤，良性"
+  },
+  "zh-TW::輸卵管瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::输卵管瘤": {
+    "code": "http://id.who.int/icd/entity/459261175",
+    "label": "未特指部位的输卵管内膜瘤"
+  },
+  "zh-TW::潰瘍病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胃腸炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::菌痢": {
+    "code": "http://id.who.int/icd/entity/2080365623",
+    "label": "志贺菌肠道感染"
+  },
+  "zh-TW::腰椎間盤突出": {
+    "code": null,
+    "label": null
+  },
+  "zh::腰椎间盘突出": {
+    "code": "http://id.who.int/icd/entity/968794127",
+    "label": "腰椎间盘退变伴椎间盘脱出"
+  },
+  "zh-TW::功能性子宮出血": {
+    "code": null,
+    "label": null
+  },
+  "zh::功能性子宫出血": {
+    "code": "http://id.who.int/icd/entity/357921189",
+    "label": "功能失调性子宫出血"
+  },
+  "zh-TW::三尖瓣閉鎖不全": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::高血壓病": {
+    "code": null,
+    "label": null
+  },
+  "zh::高血压病": {
+    "code": "http://id.who.int/icd/entity/924915526",
+    "label": "高血压病"
+  },
+  "zh-TW::脾臟水泡": {
+    "code": null,
+    "label": null
+  },
+  "zh::脾脏水泡": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::心臟血管病變": {
+    "code": null,
+    "label": null
+  },
+  "zh::心脏血管病变": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::二尖瓣閉塞不全": {
+    "code": null,
+    "label": null
+  },
+  "zh::二尖瓣闭塞不全": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::產後缺乳": {
+    "code": null,
+    "label": null
+  },
+  "zh::产后缺乳": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::老年癡呆症": {
+    "code": null,
+    "label": null
+  },
+  "zh::老年痴呆症": {
+    "code": "http://id.who.int/icd/entity/1611724421",
+    "label": "阿尔茨海默病"
+  },
+  "zh-TW::汗管瘤": {
+    "code": "http://id.who.int/icd/entity/1091480008",
+    "label": "汗管瘤"
+  },
+  "zh-TW::皮脂瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::栗粒腫": {
+    "code": null,
+    "label": null
+  },
+  "zh::栗粒肿": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::扁平疣": {
+    "code": "http://id.who.int/icd/entity/316643992",
+    "label": "扁平疣"
+  },
+  "zh-TW::日光性角化斑": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::贅疣": {
+    "code": null,
+    "label": null
+  },
+  "zh::赘疣": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腸黏膜炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh::肠黏膜炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::亞臨床甲狀腺功能低下": {
+    "code": null,
+    "label": null
+  },
+  "zh::亚临床甲状腺功能低下": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::中重度脂肪肝": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::頸椎病": {
+    "code": null,
+    "label": null
+  },
+  "zh::颈椎病": {
+    "code": "http://id.who.int/icd/entity/706963687",
+    "label": "颈椎关节强硬 不伴有脊髓病或神经根病"
+  },
+  "zh-TW::黏連性肩關節關節囊炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::黏连性肩关节关节囊炎": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::攝護腺鈣化": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺钙化": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::前列腺鈣化": {
+    "code": null,
+    "label": null
+  },
+  "zh::前列腺钙化": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::紅血球增多症": {
+    "code": null,
+    "label": null
+  },
+  "zh::红血球增多症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腕隧道症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::鍵盤手": {
+    "code": null,
+    "label": null
+  },
+  "zh::键盘手": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::皮膚疹": {
+    "code": null,
+    "label": null
+  },
+  "zh::皮肤疹": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::肺囊蟲肺炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::肺囊虫肺炎": {
+    "code": "http://id.who.int/icd/entity/222963091",
+    "label": "肺囊虫相关性囊肿或气瘤"
+  },
+  "zh-TW::白色念珠菌": {
+    "code": "http://id.who.int/icd/entity/2055968951",
+    "label": "念珠菌病"
+  },
+  "zh-TW::再生不良性貧血": {
+    "code": null,
+    "label": null
+  },
+  "zh::再生不良性贫血": {
+    "code": "http://id.who.int/icd/entity/1191963445",
+    "label": "遗传性纯红细胞再生障碍"
+  },
+  "zh-TW::富貴病": {
+    "code": null,
+    "label": null
+  },
+  "zh::富贵病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::產後缺乳症": {
+    "code": null,
+    "label": null
+  },
+  "zh::产后缺乳症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::潛在性地中海型貧血": {
+    "code": null,
+    "label": null
+  },
+  "zh::潜在性地中海型贫血": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::贅骨": {
+    "code": null,
+    "label": null
+  },
+  "zh::赘骨": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::溶血性尿毒症": {
+    "code": "http://id.who.int/icd/entity/1997831581",
+    "label": "遗传性溶血尿毒综合征"
+  },
+  "zh-TW::尿失禁": {
+    "code": "http://id.who.int/icd/entity/766129123",
+    "label": "尿失禁"
+  },
+  "zh-TW::膽囊腺肌瘤": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆囊腺肌瘤": {
+    "code": "http://id.who.int/icd/entity/2033223745",
+    "label": "胆囊腺肌瘤病"
+  },
+  "zh-TW::委瑞氏症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::過動兒": {
+    "code": null,
+    "label": null
+  },
+  "zh::过动儿": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::手抖": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::輕度脂肪肝": {
+    "code": null,
+    "label": null
+  },
+  "zh::轻度脂肪肝": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::巴金森氏": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::小腦萎縮": {
+    "code": null,
+    "label": null
+  },
+  "zh::小脑萎缩": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::多發性硬化症": {
+    "code": null,
+    "label": null
+  },
+  "zh::多发性硬化症": {
+    "code": "http://id.who.int/icd/entity/1717855922",
+    "label": "多发性硬化症引起的震颤"
+  },
+  "zh-TW::腎功能失調": {
+    "code": null,
+    "label": null
+  },
+  "zh::肾功能失调": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::肝功能衰竭": {
+    "code": "http://id.who.int/icd/entity/508643963",
+    "label": "肝衰竭未提及急性或慢性"
+  },
+  "zh-TW::消化道出血": {
+    "code": "http://id.who.int/icd/entity/2044414353",
+    "label": "胃肠出血"
+  },
+  "zh-TW::內外痔": {
+    "code": null,
+    "label": null
+  },
+  "zh::内外痔": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::大腸息肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::大肠息肉": {
+    "code": "http://id.who.int/icd/entity/537826614",
+    "label": "大肠息肉"
+  },
+  "zh-TW::更年期綜合症": {
+    "code": null,
+    "label": null
+  },
+  "zh::更年期综合症": {
+    "code": "http://id.who.int/icd/entity/461335246",
+    "label": "更年期或女性更年期状态"
+  },
+  "zh-TW::高密度酯蛋白膽固醇": {
+    "code": null,
+    "label": null
+  },
+  "zh::高密度酯蛋白胆固醇": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::腮腺炎": {
+    "code": "http://id.who.int/icd/entity/1033655397",
+    "label": "腮腺炎"
+  },
+  "zh-TW::舌炎": {
+    "code": "http://id.who.int/icd/entity/843084384",
+    "label": "舌炎"
+  },
+  "zh-TW::長疔": {
+    "code": null,
+    "label": null
+  },
+  "zh::长疔": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::瘡": {
+    "code": null,
+    "label": null
+  },
+  "zh::疮": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::發炎性": {
+    "code": null,
+    "label": null
+  },
+  "zh::发炎性": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::下壁心肌梗塞": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::硬下疳": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::錐體外症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh::锥体外症候群": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::甲狀腺異常": {
+    "code": null,
+    "label": null
+  },
+  "zh::甲状腺异常": {
+    "code": "http://id.who.int/icd/entity/1178783268",
+    "label": "某些特指的甲状腺疾患"
+  },
+  "zh-TW::免疫缺乏病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::膽囊息肉": {
+    "code": null,
+    "label": null
+  },
+  "zh::胆囊息肉": {
+    "code": "http://id.who.int/icd/entity/839854600",
+    "label": "胆囊息肉"
+  },
+  "zh-TW::陳舊性下壁心肌梗塞": {
+    "code": null,
+    "label": null
+  },
+  "zh::陈旧性下壁心肌梗塞": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::攝護腺炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh::摄护腺炎症": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::病毒肝炎": {
+    "code": "http://id.who.int/icd/entity/1209596839",
+    "label": "肝炎病毒"
+  },
+  "zh-TW::膝關節炎": {
+    "code": null,
+    "label": null
+  },
+  "zh::膝关节炎": {
+    "code": "http://id.who.int/icd/entity/1928583594",
+    "label": "膝关节炎"
+  },
+  "zh-TW::出血性大腸桿菌": {
+    "code": null,
+    "label": null
+  },
+  "zh::出血性大肠杆菌": {
+    "code": "http://id.who.int/icd/entity/1061908143",
+    "label": "肠出血性大肠埃希菌"
+  },
+  "zh-TW::彈響指": {
+    "code": null,
+    "label": null
+  },
+  "zh::弹响指": {
+    "code": "http://id.who.int/icd/entity/1447079126",
+    "label": "扳机指"
+  },
+  "zh-TW::上消化道疾病": {
+    "code": null,
+    "label": null
+  },
+  "zh-TW::胃淋巴瘤": {
+    "code": "http://id.who.int/icd/entity/40790611",
+    "label": "胃恶性淋巴瘤"
   }
 }
