@@ -29,6 +29,8 @@ We assign **ICD-11** labels instead of UMLS labels as originally planned — UML
 | `assign_cuis_ICD-11.py` | Assigns ICD-11 labels (no translation) |
 | `assign_cuis_ICD-11_with_translation.py` | Assigns ICD-11 labels (with translation) |
 
+## Experiments
+Experiment 1 - fronzen baseline on untranslated corpus: experiments/frozen_sapbert 
 
 ## To Do
 
