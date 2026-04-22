@@ -37,3 +37,15 @@ output_path = "processed_corpus/Combined/with_translation/train/combined_disease
 convert_traditional_to_simplified(input_path, output_path)
 
 print(f"translation completed {output_path}")
+
+input_path_dev = "processed_corpus/Combined/with_translation/dev/combined_disease_corpus_dev_with_cuis_icd11_cleaned.jsonl"
+output_path_dev = "processed_corpus/Combined/with_translation/dev/combined_disease_corpus_dev_with_cuis_icd11_cleaned_simplified.jsonl"
+
+convert_traditional_to_simplified(input_path_dev, output_path_dev)
+print(f"translation completed {output_path_dev}")
+
+input_path_test = "processed_corpus/Combined/with_translation/test/combined_disease_corpus_test_with_cuis_icd11_cleaned.jsonl"
+output_path_test = "processed_corpus/Combined/with_translation/test/combined_disease_corpus_test_with_cuis_icd11_cleaned_simplified.jsonl"
+
+convert_traditional_to_simplified(input_path_test, output_path_test)
+print(f"translation completed {output_path_test}")
