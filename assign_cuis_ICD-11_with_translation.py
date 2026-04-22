@@ -3,12 +3,66 @@ import requests
 import json
 from config import CLIENT_ID, CLIENT_SECRET
 from datetime import datetime, timedelta
+import opencc
 
-input_path  = "processed_corpus/Combined/dev/combined_disease_corpus_dev_cleaned.jsonl"
-output_path = "processed_corpus/Combined/dev/combined_disease_corpus_train_with_cuis_icd11_cleaned.jsonl"
+input_path  = "processed_corpus/Traditional_Chinese/tc_test_disease_only.jsonl"
+output_path = "processed_corpus/Traditional_Chinese/assign_CUIs_translated/tc_test_translated_with_CUIs.jsonl"
 cache_path  = "processed_corpus/Combined/icd11_cache.json"
 
+# ADD: initialize converter once at the top level
+converter = opencc.OpenCC('t2s')
 
+# Add tracking for how TC entities were matched
+tc_match_stats = {
+    "matched_zh_TW":        0,   # matched directly via zh-TW
+    "matched_opencc_zh":    0,   # only matched after OpenCC conversion
+    "unmatched":            0,   # unmatched even after OpenCC fallback
+}
+
+MEDICAL_OVERRIDES = {
+    "憂鬱症":  "抑郁症",   
+    "躁鬱症":  "双相情感障碍", 
+    "失智症":  "痴呆",     
+    "過動症": "多动症",
+    "巴金森氏症": "帕金森病",
+    "愛滋病": "艾滋病",
+    "思覺失調症": "精神分裂症",
+    "阿茲海默症": "阿尔茨海默病",
+}
+
+def tc_to_sc_medical(surface_form):
+    """
+    Convert Traditional Chinese medical term to Simplified Chinese.
+    Use manual override table first, then fall back to OpenCC.
+    """
+    if surface_form in MEDICAL_OVERRIDES:
+        return MEDICAL_OVERRIDES[surface_form]
+    return converter.convert(surface_form)
+
+def lookup_trad_chinese(surface_form):
+    """
+    For Traditional Chinese:
+    1. Try zh-TW directly first
+    2. If no match, convert to Simplified via OpenCC and try zh
+    3. Track which path succeeded for analysis
+    """
+    # Step 1: try zh-TW directly (reuses cache)
+    code, label = lookup_with_cache(surface_form, "zh-TW")
+    if code:
+        tc_match_stats["matched_zh_TW"] += 1
+        return code, label
+
+    # Step 2: medical-aware conversion + zh fallback
+    simplified = tc_to_sc_medical(surface_form)
+    if simplified != surface_form:
+        code, label = lookup_with_cache(simplified, "zh")
+        if code:
+            tc_match_stats["matched_opencc_zh"] += 1
+            return code, label
+
+    # Step 3: nothing worked
+    tc_match_stats["unmatched"] += 1
+    return None, None
 
 
 # --- Token management (unchanged) ---
@@ -33,7 +87,7 @@ def get_token():
     token_expiry = datetime.now() + timedelta(seconds=data.get("expires_in", 3600) - 60)
     return token
 
-def search_icd11(surface_form, lang="en"):
+def search_icd11(surface_form, lang="en", min_score=0.5):
     headers = {
         "Authorization":   f"Bearer {get_token()}",
         "Accept":          "application/json",
@@ -55,6 +109,12 @@ def search_icd11(surface_form, lang="en"):
             return None, None
 
         top = results["destinationEntities"][0]
+
+        # Reject low-confidence matches
+        score = top.get("score", 0)
+        if score < min_score:
+            return None, None
+
 
         # Use theCode if available, otherwise fall back to foundation URI
         code = top.get("theCode") or top.get("stemId") or top.get("id")
@@ -101,22 +161,7 @@ LANG_MAP = {
     "trad_chinese":  "zh-TW"
 }
 
-# # Run this as a standalone test BEFORE your main loop
-# test_form = "cancer"
-# headers = {
-#     "Authorization":   f"Bearer {get_token()}",
-#     "Accept":          "application/json",
-#     "Accept-Language": "en",
-#     "API-Version":     "v2"
-# }
-# r = requests.get(
-#     "https://id.who.int/icd/entity/search",
-#     params={"q": test_form, "flatResults": True},
-#     headers=headers,
-#     timeout=10
-# )
-# print("Status code:", r.status_code)
-# print("Raw response:", json.dumps(r.json(), indent=2))
+
 
 
 matched   = {"english_ncbi": 0, "simp_chinese": 0, "trad_chinese": 0}
@@ -132,7 +177,12 @@ with open(input_path) as fin, \
         lang   = LANG_MAP.get(corpus, "en")
 
         for entity in record.get("entities", []):
-            code, label = lookup_with_cache(entity["surface_form"], lang)
+
+            # Route Traditional Chinese through the new fallback function
+            if corpus == "trad_chinese":
+                code, label = lookup_trad_chinese(entity["surface_form"])
+            else:
+                code, label = lookup_with_cache(entity["surface_form"], lang)
 
             if code:
                 entity["ontology_id"]    = code
@@ -145,7 +195,6 @@ with open(input_path) as fin, \
 
         fout.write(json.dumps(record, ensure_ascii=False) + "\n")
 
-        # Save cache every 100 documents
         if (i + 1) % 100 == 0:
             save_cache()
             print(f"Processed {i + 1} docs | {total_entities} entities | "
@@ -158,19 +207,9 @@ print("\nFinished.")
 print("Matched:  ", matched)
 print("Unmatched:", unmatched)
 print("Total entities:", total_entities)
+print("\n=== Traditional Chinese Match Path Breakdown ===")
+print(f"  Matched via zh-TW directly:   {tc_match_stats['matched_zh_TW']}")
+print(f"  Matched via OpenCC + zh:       {tc_match_stats['matched_opencc_zh']}")
+print(f"  Unmatched after both attempts: {tc_match_stats['unmatched']}")
 
 
-# # Quick test before proceeding
-# test_cases = [
-#     ("阿茲海默症", "zh-TW"), 
-#     ("憂鬱症",       "zh-TW"),  
-#     ("肝癌", "zh-TW"),
-#     ("中風", "zh-TW"),
-
-#     ("糖尿病",     "zh-TW"),   # diabetes — should match in any Chinese
-#     ("糖尿病",     "zh"),      # same term in Simplified — compare coverage
-# ]
-
-# for term, lang in test_cases:
-#     code, label = search_icd11(term, lang)
-#     print(f"[{lang}] {term:15s} → {code} | {label}")
