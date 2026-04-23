@@ -23,6 +23,7 @@ if __name__ == '__main__':
     merge_jsonl([path1, path2, path3])
 
     analyser = Analyse("all_corpora.jsonl")
-    analyser.print_and_save_comparison("analyses_output/comparison.txt")
+    #analyser.print_and_save_comparison("analyses_output/comparison.txt")
     #analyser.print_and_save_span_analysis("span_analysis.txt")
-    analyser.save_all_span_analyses(Path("analyses_output/"))
+    #analyser.save_all_span_analyses(Path("analyses_output/"))
+    analyser.cross_lingual(Path("data_conversion/icd11/icd11_map.jsonl"), Path("analyses_output/cross_lingual_analysis.txt"))
