@@ -1,0 +1,29 @@
+Train:
+Matched:   {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 5806}
+Unmatched: {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 2268}
+Total entities: 8074
+
+=== Traditional Chinese Match Path Breakdown ===
+  Matched via zh-TW directly:   2681
+  Matched via OpenCC + zh:       3125
+  Unmatched after both attempts: 2268
+
+Finished.
+Matched:   {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 698}
+Unmatched: {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 302}
+Total entities: 1000
+
+=== Traditional Chinese Match Path Breakdown ===
+  Matched via zh-TW directly:   324
+  Matched via OpenCC + zh:       374
+  Unmatched after both attempts: 302
+
+Finished.
+Matched:   {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 731}
+Unmatched: {'english_ncbi': 0, 'simp_chinese': 0, 'trad_chinese': 274}
+Total entities: 1005
+
+=== Traditional Chinese Match Path Breakdown ===
+  Matched via zh-TW directly:   390
+  Matched via OpenCC + zh:       341
+  Unmatched after both attempts: 274
