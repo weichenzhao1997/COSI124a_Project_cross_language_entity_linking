@@ -2,7 +2,7 @@
 
 ## Final Report
 
-Overleaf link [here]([https://www.google.com](https://www.overleaf.com/project/69da83a9609c485771cfc7ff))
+Overleaf link [here](https://www.overleaf.com/project/69da83a9609c485771cfc7ff)
 
 ## Corpus
 
