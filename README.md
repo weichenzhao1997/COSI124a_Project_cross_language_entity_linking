@@ -13,8 +13,8 @@ A particular focus of this work is **Traditional Chinese**, a severely under-res
 | Corpus | Language | Source |
 |---|---|---|
 | `english_ncbi` | English | NCBI Disease corpus |
-| `simp_chinese` | Simplified Chinese | TwiMed-style biomedical corpus |
-| `trad_chinese` | Traditional Chinese | TwiMed-style biomedical corpus |
+| `CMeEE V2` | Simplified Chinese | China Conference on Knowledge Graph and Semantic Computing, 2016 |
+| `Chines HealthNER Corpus` | Traditional Chinese | Lee and Lu, 2021 |
 
 ### Ontology
 
